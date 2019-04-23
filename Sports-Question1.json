@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this sport?",
+"answers":[
+	"Field Hockey",
+	"Golf",
+	"Baseball",
+	"Broomball"
+	],
+"correctAnswer":1,
+"hints":[
+	"Played with curved sticks and a ball",
+	"Played between two teams",
+	"11 Players in each team"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Hockey is a sport in which two teams play against each other by trying to manoeuvre a ball or a puck into the opponent's goal using a hockey stick. There are many types of hockey such as bandy, field hockey, and ice hockey. In most of the world, hockey refers to field hockey, while in Canada, the United States, Finland, Sweden, Latvia, the Czech Republic and Slovakia, hockey usually refers to ice hockey."
+}
