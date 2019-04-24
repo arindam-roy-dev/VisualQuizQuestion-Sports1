@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this player?",
+"answers":[
+	"Jackie Robinson",
+	"Pele",
+	"Ahmed Musa",
+	"Andre Russell"
+	],
+"correctAnswer":2,
+"hints":[
+	"Full name is Edson Arantes do Nascimento",
+	"Plays Football",
+	"Plays for Brazil Team"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Edson Arantes do Nascimento, known as Pelé, is a Brazilian retired professional footballer who played as a forward. He was born 23 October 1940.\nPelé began playing for Santos at age 15 and the Brazil national team at 16. During his international career, he won three FIFA World Cups: 1958, 1962 and 1970, being the only player ever to do so. Pelé is the all-time leading goalscorer for Brazil with 77 goals in 92 games."
+}
