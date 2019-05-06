@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Where were first Olympic Games held?",
+"answers":[
+	"Sydney",
+	"London",
+	"Russia",
+	"Athens"
+	],
+"correctAnswer":4,
+"hints":[
+	"The main venue was the Panathenaic Stadium",
+	"It was birthplace of the Ancient Olympic Games",
+	"It\'s in Europe"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The 1896 Summer Olympics, officially known as the Games of the I Olympiad, was the first international Olympic Games held in modern history. Organised by the International Olympic Committee (IOC), which had been created by Pierre de Coubertin, it was held in Athens, Greece, from 6 to 15 April 1896.\nAthens had been unanimously chosen, because Greece was the birthplace of the Ancient Olympic Games.\nThe opening ceremony was held in the Panathenaic Stadium on 6 April, during which most of the competing athletes were aligned on the infield, grouped by nation. After a speech by the president of the organising committee, Crown Prince Constantine, his father officially opened the Games. Afterwards, nine bands and 150 choir singers performed an Olympic Hymn, composed by Spyridon Samaras, with words by poet Kostis Palamas."
+}

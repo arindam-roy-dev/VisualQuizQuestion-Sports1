@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Formula 1 sanctioned by which authority?",
+"answers":[
+	"IFMS: International Federation of Motorsports",
+	"AMS: Association of Motorsport Racing",
+	"FIA: Federation of International Automobile",
+	"WMSA: World Motorsport Association"
+	],
+"correctAnswer":3,
+"hints":[
+	"Headquartered in Paris"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"FIA is an association established on 20 June 1904 to represent the interests of motoring organisations and motor car users. To the general public, the FIA is mostly known as the governing body for many auto racing events.\nHeadquartered at 8 Place de la Concorde, Paris, the FIA consists of 246 member organisations in 145 countries worldwide.\nIts most prominent role is in the licensing and sanctioning of Formula One, World Endurance Championship, World Rally Championship and various forms of sports car and touring car racing."
+}

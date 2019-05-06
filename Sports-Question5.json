@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this sports?",
+"answers":[
+	"Football",
+	"Rugby",
+	"Baseball",
+	"Volly Ball"
+	],
+"correctAnswer":2,
+"hints":[
+	"It's one kind of Football",
+	"It is played with a diamond shape ball",
+	"It is based on running with the ball in hand"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Rugby union, commonly known in most of the world simply as rugby, is a contact team sport which originated in England in the first half of the 19th century.\nOne of the two codes of rugby football, it is based on running with the ball in hand. In its most common form, a game is between two teams of 15 players using an oval-shaped ball on a rectangular field with H-shaped goalposts at each end.\nRugby union is a popular sport around the world, played by male and female players of all ages. In 2014, there were more than 6 million people playing worldwide, of whom 2.36 million were registered players."
+}
