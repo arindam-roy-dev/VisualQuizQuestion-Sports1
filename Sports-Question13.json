@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"How long are professional Golf Tour Players allotted per shot?",
+"answers":[
+	"20 Seconds",
+	"1 minute",
+	"45 seconds",
+	"3 minutes"
+	],
+"correctAnswer":3,
+"hints":[
+	"Less than a minute"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Professional Golf Tour Players were allotted 45 seconds per shot."
+}

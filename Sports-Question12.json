@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Stadium?",
+"answers":[
+	"Camp Nou, Barcelona, Spain",
+	"Beijing National Stadium",
+	"Wembley Stadium, London, England",
+	"Kaohsiung National Stadium, Taiwan"
+	],
+"correctAnswer":2,
+"hints":[
+	"Also known as the Bird\'s Nest",
+	"Olimpic Stadium"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Beijing National Stadium, officially the National Stadium, also known as the Bird\'s Nest, is a stadium in Beijing. The stadium (BNS) was jointly designed by architects Jacques Herzog and Pierre de Meuron of Herzog & de Meuron, project architect Stefan Marbach, artist Ai Weiwei, and CADG, which was led by chief architect Li Xinggang.\nThe stadium was designed for use throughout the 2008 Summer Olympics and Paralympics and will be used again in the 2022 Winter Olympics and Paralympics. The Bird's Nest sometimes has some extra temporary large screens installed at the stands of the stadium.\nBeijing National Stadium (BNS) was a joint venture among architects Jacques Herzog and Pierre de Meuron of Herzog & de Meuron, project architect Stefan Marbach, artist Ai Weiwei, and CADG, which was led by chief architect Li Xinggang."
+}

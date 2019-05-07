@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of person which controls a football match?",
+"answers":[
+	"Umpire",
+	"Referee",
+	"Field Manager",
+	"Goalkeeper"
+	],
+"correctAnswer":2,
+"hints":[
+	"Plays around the field with Players"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A referee is the person of authority in a football match who is responsible for presiding over the game from a neutral point of view and making on-the-fly decisions that enforce the rules of the sport, including sportsmanship decisions such as ejection.\nA main referee follows the play around the field and has the final authority on decisions such as fouls, throws and card-issuing, un-desputable by players. The main play referee is assisted by two linesmen, who make decisions on who gains possession when the ball goes out of the field of play, and can also advise the referee on off-the-ball events such as a fight or an illegal tackle."
+}

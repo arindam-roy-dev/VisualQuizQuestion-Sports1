@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Stadium?",
+"answers":[
+	"Ericsson Globe, Sweden",
+	"Wembley Stadium, London, England",
+	"Queenstown Events Centre",
+	"Allianz Arena, Germany"
+	],
+"correctAnswer":1,
+"hints":[
+	"It\'s primarily used for Ice Hockey",
+	"Located in Stockholm",
+	"It's an Indoor Stadium"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Ericsson Globe, originally known as Stockholm Globe Arena and commonly referred to in Swedish simply as Globen, is an indoor arena located in Stockholm Globe City, Johanneshov district of Stockholm, Sweden.\nThe Ericsson Globe is the largest hemispherical building on Earth and took two and a half years to build. Shaped like a large white ball, it has a diameter of 110 meters (361 feet) and an inner height of 85 meters (279 feet).\nIt represents the Sun in the Sweden Solar System, the world's largest scale model of the Solar System.\nThe Globe is primarily used for ice hockey, and is the former home arena of AIK, Djurgårdens IF, and Hammarby IF. It opened in 1989 and seats 13,850 for ice hockey games, but is also used for musical performances as well as other sports than ice hockey, for example futsal (indoor football). It is owned by FCA fastigheter."
+}

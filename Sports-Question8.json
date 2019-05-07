@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"With which game does Davis Cup is associated?",
+"answers":[
+	"Swimming",
+	"Hockey",
+	"Table Tennis",
+	"Lawn Tennis"
+	],
+"correctAnswer":4,
+"hints":[
+	"It is men\'s tournament",
+	"Women's equivalent of the Davis Cup is the Fed Cup"
+	"It is run by the International Tennis Federation (ITF)"
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The Davis Cup is the premier international team event in men\'s tennis.\nIt is run by the International Tennis Federation (ITF) and is contested annually between teams from competing countries in a knock-out format.\nIt is described by the organisers as the \"World Cup of Tennis\", and the winners are referred to as the World Champion team.\nThe women\'s equivalent of the Davis Cup is the Fed Cup. Australia, the Czech Republic, and the United States are the only countries to have held both Davis Cup and Fed Cup titles in the same year."
+}

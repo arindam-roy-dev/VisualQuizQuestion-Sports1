@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Dizzy is the nickname of what Australian player?",
+"answers":[
+	"Adam Gilchrist",
+	"Brett Lee",
+	"Glenn McGrath",
+	"Jason Gillespie"
+	],
+"correctAnswer":4,
+"hints":[
+	"Right-arm fast bowler",
+	"Lower-order batsman with a Test double century"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Jason Neil Gillespie (born 19 April 1975) is a former Australian cricketer who played all three formats of the game.\nPrimarily a right-arm fast bowler, but he was also a competent lower-order batsman with a Test double century, an unbeaten 201, the highest score by a night-watchman in international cricket. Gillespie made his Test debut against the West Indies at Sydney in 1996 and his One Day International debut against Sri Lanka at Colombo in the Singer World Series in 1996."
+}

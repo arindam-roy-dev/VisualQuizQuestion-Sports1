@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is The National Game of Japan?",
+"answers":[
+	"Karate",
+	"Sumo Wrestling",
+	"Martial Arts",
+	"Judo"
+	],
+"correctAnswer":2,
+"hints":[
+	"The sport originated in Japan",
+	"Player attempts to force his opponent out of a circular ring"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Sumo wrestling is considered Japan\'s national sport.\nSports in Japan are a significant part of Japanese culture. Both traditional sports such as sumo and martial arts, and Western imports like baseball and association football, are popular with both participants and spectators.\nSumo is a form of competitive full-contact wrestling where a rikishi (wrestler) attempts to force his opponent out of a circular ring (dohyō) or into touching the ground with any body part other than the soles of his feet (usually by throwing, shoving or pushing him down).\nThe sport originated in Japan, the only country where it is practiced professionally."
+}
