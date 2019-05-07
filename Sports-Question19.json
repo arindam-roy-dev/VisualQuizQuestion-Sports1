@@ -1,4 +1,4 @@
-{
+﻿{
 "app":"Visual Quiz",
 "question":"What is the name of this Player?",
 "answers":[
@@ -7,7 +7,7 @@
 	"Kylian Mbappé",
 	"Romelu Lukaku"
 	],
-"correctAnswer":1,
+"correctAnswer":2,
 "hints":[
 	"Brazilian former professional Footballer",
 	"Played mostly as an attacking midfielder"
