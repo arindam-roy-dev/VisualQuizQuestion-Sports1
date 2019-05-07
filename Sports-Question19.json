@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Player?",
+"answers":[
+	"Cristiano Ronaldo",
+	"Ronaldinho",
+	"Kylian Mbappé",
+	"Romelu Lukaku"
+	],
+"correctAnswer":1,
+"hints":[
+	"Brazilian former professional Footballer",
+	"Played mostly as an attacking midfielder"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Ronaldo de Assis Moreira (born 21 March 1980), commonly known as Ronaldinho Gaúcho is a Brazilian former professional footballer for Brazil.\nHe played mostly as an attacking midfielder, but was also deployed as a forward or a winger. He played the bulk of his career at European clubs Paris Saint-Germain, Barcelona and A.C. Milan as well as playing for the Brazilian national team.\nAt international level, Ronaldinho played 97 matches for the Brazil national team, scoring 33 goals and representing his country in two FIFA World Cups. He was an integral part of the 2002 FIFA World Cup-winning team in Korea and Japan"
+}

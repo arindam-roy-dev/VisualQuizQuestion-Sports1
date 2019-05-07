@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"The first Asian Games were held in?",
+"answers":[
+	"Jakarta",
+	"Manila",
+	"Tokyo",
+	"New Delhi"
+	],
+"correctAnswer":4,
+"hints":[
+	"1951 Asian Games, Officially known as the First Asian Games",
+	"Held in India"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The 1951 Asian Games, officially known as the First Asian Games, was a multi-sport event celebrated in New Delhi, India from 4 to 11 March 1951.\nThe Games received names like First Asiad and 1951 Asiad. A total of 489 athletes representing 11 Asian National Olympic Committees (NOCs) participated in 57 events from eight sports and discipline.\nNational Stadium was the venue for all events. The official logo of the First Asiad depicted a bright sun in red with 16 rays and a white circle in the middle of the disc of the sun and eleven rings, representing each participating nation, on a white background, symbolising peace."
+}
