@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the only woman to have won the three Wimbledon titles in a row?",
+"answers":[
+	"Martina Hingis",
+	"Steffi Graff",
+	"Maria Sharapova",
+	"Venus Williams"
+	],
+"correctAnswer":2,
+"hints":[
+	"German professional tennis player",
+	"Won Wimbledon in the year of 1991, 1992, 1993"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Stefanie Maria \"Steffi\" Graf is a German former professional tennis player. She was ranked world No. 1 and won 22 Grand Slam singles titles.\nHer 22 singles titles put her second on the list of major wins in the female competition since the introduction of the Open Era in 1968 and is third all-time behind Margaret Court (24) and Serena Williams (23).\nIn 1988, she became the only tennis player to achieve the Golden Slam by winning all four Grand Slam singles titles and the Olympic gold medal in the same calendar year.\nShe won Wimbledon in the year of 1988, 1989, 1991, 1992, 1993, 1995, 1996"
+}

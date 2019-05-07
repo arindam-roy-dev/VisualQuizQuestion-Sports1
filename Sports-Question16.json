@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"In archery, what shape is the target?",
+"answers":[
+	"Square",
+	"Round",
+	"Triangular",
+	"Rectangular"
+	],
+"correctAnswer":2,
+"hints":[
+	"Target is ring of different colors"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Archery is the art, sport, practice, or skill of using a bow to shoot arrows.\nModern competitive archery is governed by the World Archery Federation (abbreviated WA), formerly FITA – Fédération Internationale de Tir à l\'Arc. WA is the International Olympic Committee\'s (IOC) recognized governing body for all of archery and Olympic rules are derived from the WA rules.\nStandard WA targets are marked with 10 evenly spaced concentric rings, which generally have score values from 1 through 10 assigned to them, except in outdoor Imperial rounds under AGB rules, where they have score values 1, 3, 5, 7 and 9. In addition, there is an inner 10 ring, sometimes called the X ring. This becomes the 10 ring at indoor compound competitions. Outdoors, it serves as a tiebreaker with the archer scoring the most X\'s winning. "
+}
