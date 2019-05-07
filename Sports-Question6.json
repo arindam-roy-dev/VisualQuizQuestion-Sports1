@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Who is this player?",
+"answers":[
+	"Roger Federer",
+	"Pete Sampras",
+	"Fabio Fognini",
+	"Novak Djokovic"
+	],
+"correctAnswer":4,
+"hints":[
+	"Serbian professional tennis player",
+	"First Serbian player to be ranked world No. 1"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Novak Djokovic is a Serbian professional tennis player who is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). Djokovic is considered to be one of the greatest tennis players of all time.\nDjokovic has won 15 Grand Slam singles titles, five ATP Finals titles, 32 ATP Tour Masters 1000 titles, 12 ATP Tour 500 titles, and has held the No. 1 spot in the ATP rankings for over 250 weeks. In majors, he has won a record seven Australian Open titles, four Wimbledon titles, three US Open titles and one French Open title.\nDjokovic was born on 22 May 1987 in Belgrade, SR Serbia, Yugoslavia, to parents Srđan and Dijana. His two younger brothers, Marko and Djordje, are also tennis players with professional aspirations."
+}
