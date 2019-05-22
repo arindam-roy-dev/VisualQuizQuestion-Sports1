@@ -1,4 +1,4 @@
-{
+﻿{
 "app":"Visual Quiz",
 "question":"When was the first FIFA World Cup inaugurated?",
 "answers":[
@@ -7,7 +7,7 @@
 	"1934",
 	"1948"
 	],
-"correctAnswer":3,
+"correctAnswer":2,
 "hints":[
 	"It was before 2nd world war",
 	"It was after 1st world war",
