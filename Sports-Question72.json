@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Of which country is bull-ghting the national game?",
+"answers":[
+	"Spain",
+	"Mexico",
+	"Colombia",
+	"Portugal"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is defined as cultural events and heritage",
+	"An European Country"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Bullfighting is a physical contest that involves humans and animals attempting to publicly subdue, immobilise, or kill a bull, usually according to a set of rules, guidelines, or cultural expectations. There are many different forms and varieties in various locations around the world. Some forms involve dancing around or over a cow or bull, or attempting to grasp an object from the animal.\nThe best-known form of bullfighting is Spanish-style bullfighting, a traditional spectacle in countries including Spain, Portugal, parts of southern France, and some Latin American countries (Mexico, Colombia, Ecuador, Venezuela and Peru). While some forms are sometimes considered to be a blood sport, in some countries, for example Spain, it is defined as an art form or cultural event and relevant regulatory frameworks liken it to other cultural events and heritage."
+}

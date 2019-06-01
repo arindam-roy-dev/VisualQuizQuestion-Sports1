@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Game?",
+"answers":[
+	"Horse Riding",
+	"Blood Fighting",
+	"Bull Fighting",
+	"Gladiator"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is defined as cultural events and heritage",
+	"The best-known form of it is Spanish-style"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Bullfighting is a physical contest that involves humans and animals attempting to publicly subdue, immobilise, or kill a bull, usually according to a set of rules, guidelines, or cultural expectations. There are many different forms and varieties in various locations around the world. Some forms involve dancing around or over a cow or bull, or attempting to grasp an object from the animal.\nThe best-known form of bullfighting is Spanish-style bullfighting, a traditional spectacle in countries including Spain, Portugal, parts of southern France, and some Latin American countries (Mexico, Colombia, Ecuador, Venezuela and Peru). While some forms are sometimes considered to be a blood sport, in some countries, for example Spain, it is defined as an art form or cultural event and relevant regulatory frameworks liken it to other cultural events and heritage."
+}

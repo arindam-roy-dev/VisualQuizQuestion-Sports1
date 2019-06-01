@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the maximum permitted length of cricket bat?",
+"answers":[
+	"32 inches",
+	"36 inches",
+	"38 inches",
+	"42 inches"
+	],
+"correctAnswer":3,
+"hints":[
+	"Less than 40 inches",
+	"Greater than 35 inches"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A cricket bat is a specialised piece of equipment used by batsmen in the sport of cricket to hit the ball, typically consisting of a cane handle attached to a flat-fronted willow-wood blade. The length of the bat may be no more than 38 inches (965 mm) and the width no more than 4.25 inches (108 mm). Its use is first mentioned in 1624. Since 1979, a rule change stipulated that bats can only be made from wood.\nThe blade of a cricket bat is a wooden block that is generally flat on the striking face and with a ridge on the reverse (back) which concentrates wood in the middle where the ball is generally hit."
+}
