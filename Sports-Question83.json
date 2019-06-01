@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Sports?",
+"answers":[
+	"Boxing",
+	"Squash",
+	"Fencing",
+	"Wrestling"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is a group of three related combat sports - foil, the épée, and the sabre",
+	"It is governed by Fédération Internationale d\'Escrime (FIE)",
+	"Based on the traditional skills of swordsmanship"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Fencing is a group of three related combat sports. The three disciplines in modern fencing are the foil, the épée, and the sabre; winning points are made through the contact with an opponent. A fourth discipline, singlestick, appeared in the 1904 Olympics but was dropped after that, and is not a part of modern fencing.\nFencing was one of the first sports to be played in the Olympics. Based on the traditional skills of swordsmanship, the modern sport arose at the end of the 19th century, with the Italian school having modified the historical European martial art of classical fencing, and the French school later refining the Italian system.\nThere are three forms of modern fencing, each of which uses a different kind of weapon and has different rules; thus the sport itself is divided into three competitive scenes: foil, épée, and sabre. Most competitive fencers choose to specialize in one weapon only.\nThe FIE maintains the current rules used by FIE sanctioned international events, including world cups, world championships and the Olympic Games. The FIE handles proposals to change the rules the first year after an Olympic year in the annual congress. The US Fencing Association has slightly different rules, but usually adheres to FIE standards."
+}

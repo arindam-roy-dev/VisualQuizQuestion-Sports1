@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Sports?",
+"answers":[
+	"Skating",
+	"Skiing",
+	"Hockey",
+	"Gymnastics"
+	],
+"correctAnswer":4,
+"hints":[
+	"It is a sport that includes exercises requiring balance, strength, flexibility, agility, coordination and endurance",
+	"Game rules are governed by FIG"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Gymnastics is a sport that includes exercises requiring balance, strength, flexibility, agility, coordination and endurance. The movements involved in gymnastics contribute to the development of the arms, legs, shoulders, back, chest and abdominal muscle groups. Alertness, precision, daring, self-confidence and self-discipline are mental traits that can also be developed through gymnastics.\nThe most common form of competitive gymnastics is artistic gymnastics which consists of (for girls) floor, vault, beam and uneven bars. For boys they have floor, vault, rings, pommel, parallel bars and horizontal bar.\nThe Federation of International Gymnastics (FIG) was founded in Liege in 1881. Other FIG disciplines include rhythmic gymnastics, trampolining and tumbling, acrobatic gymnastics, aerobic gymnastics and parkour. Disciplines not currently recognized by FIG include wheel gymnastics, aesthetic group gymnastics, men\'s rhythmic gymnastics, TeamGym and mallakhamba."
+}

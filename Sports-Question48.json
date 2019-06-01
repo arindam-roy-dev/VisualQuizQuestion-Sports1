@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Sports?",
+"answers":[
+	"Shuffle Board",
+	"Table Tennis",
+	"Billiards",
+	"Table Football"
+	],
+"correctAnswer":4,
+"hints":[
+	"Also known as table soccer, foosball in North America",
+	"It is loosely based on football"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Table football or table soccer, foosball in North America, is a table-top game that is loosely based on football.\nThe aim of the game is to use the control knobs to move the ball into the opponent’s goal. There are no unified rules for playing the game, in the sense that rules vary in different countries and even in cities, and sometimes between different clubs in the same city.\nTable football is often played for fun in pubs, bars, workplaces, schools, and clubs with few rules. Table football is also played in official competitions organized by a number of national organizations, with highly evolved rules and regulations.\nThe ITSF now regulates International events including the annual World Championships and the World Cup. The World Cup was originally intended to coincide with the FIFA World Cup, but since January 2009 it has run annually. In the ITSF World Cup and World Championships 2013, almost 500 players from 30 countries congregated in Nantes, France to compete. Team US produced a tremendous performance and won the World Cup.\nFormer Polish president Lech Kaczyński and former coach of the Polish national team Leo Beenhakker play table football.\nThe ITSF World Tour has also recently expanded to include Asian countries. China, Taiwan and Malaysia played host to ITSF sanctioned tournaments in 2013. In 2016, the Philippines hosted The Manila Bay Open."
+}
