@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Sports?",
+"answers":[
+	"Wrestling",
+	"Martial Arts",
+	"Fencing",
+	"Boxing"
+	],
+"correctAnswer":4,
+"hints":[
+	"Two people throw punches at each other",
+	"There are series of one to three minutes of intervals called rounds"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Boxing is a combat sport in which two people, usually wearing protective gloves, throw punches at each other for a predetermined amount of time in a boxing ring.\nAmateur boxing is both an Olympic and Commonwealth Games sport and is a common fixture in most international games—it also has its own World Championships. Boxing is overseen by a referee over a series of one to three - minute intervals called rounds.\nThe result is decided when an opponent is deemed incapable to continue by a referee, is disqualified for breaking a rule, or resigns by throwing in a towel. If a fight completes all of its allocated rounds, the victor is determined by judges\' scorecards at the end of the contest.\nIn the event that both fighters gain equal scores from the judges, professional bouts are considered a draw. In Olympic boxing, because a winner must be declared, judges award the content to one fighter on technical criteria."
+}

@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the distance of marathon race?",
+"answers":[
+	"18 miles 385 yard",
+	"24 miles 385 yard",
+	"26 miles 385 yard",
+	"32 miles 385 yard"
+	],
+"correctAnswer":3,
+"hints":[
+	"Fabled run of the Greek soldier Pheidippides, a messenger from the Battle of Marathon to Athens, who reported the victory",
+	"Greater than 24 miles",
+	"Less than 32 miles"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The marathon is a long-distance race, completed by running, walking, or a run/walk strategy. There are also wheelchair divisions. The marathon has an official distance of 42.195 kilometres (26.219 miles; 26 miles 385 yards), usually run as a road race.\nThe event was instituted in commemoration of the fabled run of the Greek soldier Pheidippides, a messenger from the Battle of Marathon to Athens, who reported the victory.\nThe marathon was one of the original modern Olympic events in 1896, though the distance did not become standardized until 1921. More than 800 marathons are held throughout the world each year, with the vast majority of competitors being recreational athletes, as larger marathons can have tens of thousands of participants."
+}

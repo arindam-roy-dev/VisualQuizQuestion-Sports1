@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Sports?",
+"answers":[
+	"Rounders",
+	"Archery",
+	"Rowing",
+	"Shooting"
+	],
+"correctAnswer":2,
+"hints":[
+	"Competitive tournament of this Sports in the United States is governed by NFAA",
+	"It is a skill of using a bow to shoot arrows"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Archery is the art, sport, practice, or skill of using a bow to shoot arrows.\nCompetitive archery involves shooting arrows at a target for accuracy from a set distance or distances. This is the most popular form of competitive archery worldwide and is called target archery. A form particularly popular in Europe and America is field archery, shot at targets generally set at various distances in a wooded setting.\nCompetitive archery in the United States is governed by USA Archery and National Field Archery Association (NFAA), which also certifies instructors."
+}

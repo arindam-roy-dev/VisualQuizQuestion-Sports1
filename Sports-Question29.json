@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Player?",
+"answers":[
+	"Serena Williams",
+	"Venus Williams",
+	"Sloane Stephens",
+	"Monica Seles"
+	],
+"correctAnswer":1,
+"hints":[
+	"American professional tennis player",
+	"Ranked her world No. 1 in singles on eight separate occasions between 2002 and 2017"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Serena Jameka Williams (born September 26, 1981) is an American professional tennis player.\nThe Women\'s Tennis Association (WTA) ranked her world No. 1 in singles on eight separate occasions between 2002 and 2017. She reached the No. 1 ranking for the first time on July 8, 2002. On her sixth occasion, she held the ranking for 186 consecutive weeks, tying the record set by Steffi Graf. In total, she has been No. 1 for 319 weeks, which ranks third in the \"Open Era\" among female players behind Graf and Martina Navratilova.\nWilliams holds the most Grand Slam titles in singles, doubles, and mixed doubles combined among active players. Her 39 major titles puts her joint-third on the all-time list and second in the Open Era: 23 in singles, 14 in women\'s doubles, and two in mixed doubles."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"How many players play each side in Water Polo?",
+"answers":[
+	"2",
+	"4",
+	"7",
+	"11"
+	],
+"correctAnswer":3,
+"hints":[
+	"Each team is made up of six field players",
+	"Less than 10"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Water polo is a competitive team sport played in the water between two teams. The game consists of four quarters in which the two teams attempt to score goals by throwing the ball into the opposing team\'s goal. The team with the most goals at the end of the game wins the match.\nEach team is made up of six field players and one goalkeeper. Except for the goalkeeper, players participate in both offensive and defensive roles.\nWater polo is typically played in an all-deep pool meaning that players cannot touch the bottom.\nA game of water polo consists of the players swimming to move about the pool, treading water (often using the eggbeater kick technique), passing the ball and shooting at goal. Teamwork, tactical thinking and game awareness are also highly important aspects in a game of water polo. Water polo is a highly physical and demanding sport and has frequently been cited as one of the toughest sports to play."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Sports?",
+"answers":[
+	"Swimming",
+	"Gymnastics",
+	"Diving",
+	"Water Skiing"
+	],
+"correctAnswer":3,
+"hints":[
+	"Competitors possess many of the same characteristics as gymnasts and dancers",
+	"Game is jumping or falling into water from a platform or springboard"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Diving is the sport of jumping or falling into water from a platform or springboard, usually while performing acrobatics. Diving is an internationally recognized sport that is part of the Olympic Games.\nCompetitors possess many of the same characteristics as gymnasts and dancers, including strength, flexibility, kinaesthetic judgment and air awareness. Some professional divers were originally gymnasts or dancers as both the sports have similar characteristics to diving. Dmitri Sautin holds the record for most Olympic diving medals won, by winning eight medals in total between 1992 and 2008.\nMost diving competitions consist of three disciplines: 1 m and 3 m springboards, and the platform. Competitive athletes are divided by gender, and often by age group. In platform events, competitors are allowed to perform their dives on either the five, seven and a half (generally just called seven), nine, or ten meter towers. In major diving meets, including the Olympic Games and the World Championships, platform diving is from the 10 meter height."
+}

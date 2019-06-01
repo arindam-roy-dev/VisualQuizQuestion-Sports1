@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Sports?",
+"answers":[
+	"Archery",
+	"Darts",
+	"Shooting",
+	"Billiards"
+	],
+"correctAnswer":2,
+"hints":[
+	"Small missiles are thrown at a circular target",
+	"target is called Dartboard"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Darts is a sport in which small missiles are thrown at a circular target (\"dartboard\") fixed to a wall.\nThough various boards and rules have been used in the past, the term \"darts\" usually now refers to a standardised game involving a specific board design and set of rules. As well as being a professional competitive game, darts is a traditional pub game, commonly played in the United Kingdom and the Republic of Ireland, across the Commonwealth, the Netherlands, Belgium, Germany, the Scandinavian countries, the United States, Australia and elsewhere.\nThe dartboard may have its origins in the cross-section of a tree. An old name for a dartboard is \"butt\"; the word comes from the French word but, meaning \"target\".\nModern darts have four parts: the points, the barrels, the shafts and the flights. The points come in 2 common lengths, 32mm and 41mm and are sometimes knurled or coated to improve grip. Others are designed to retract slightly on impact to lessen the chance of bouncing out."
+}
