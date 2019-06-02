@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"The word \"Gambit\" is related to which Sports?",
+"answers":[
+	"Checkers",
+	"Monopoly",
+	"Carrom",
+	"Chess"
+	],
+"correctAnswer":4,
+"hints":[
+	"It a game opening characteristics",
+	"It is an aggressive but rather dubious choice for Black which often leads to wild and tricky positions",
+	"The opening player sacrifices usually a Pawn"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Gambit is one of the oldest chess openings, having been analysed in the 17th century by Gioachino Greco, after whom it is sometimes named. The opening has the appearance of a King\'s Gambit with colours reversed. It is an aggressive but rather dubious choice for Black which often leads to wild and tricky positions. FIDE Master Dennis Monokroussos even goes so far as to describe it as \"possibly the worst opening in chess\".\nThe opening player sacrifices usually a pawn, with the hope of achieving a resulting advantageous position."
+}

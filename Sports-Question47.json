@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Who is the first Batsman to hit Six Sixes in an Over in a first-class Cricket?",
+"answers":[
+	"Brian Lara",
+	"Gary Sobers",
+	"Ted Alletson",
+	"Ravi Shastri"
+	],
+"correctAnswer":2,
+"hints":[
+	"Former cricketer who played for the West Indies",
+	"This tally of 36 runs in an over, broke a 57-year-old record of 34 runs, held by Ted Alletson",
+	"In 1984–85, Indian batsman Ravi Shastri equalled the record by scoring six sixes in an over while playing for Bombay versus Baroda"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Sir Garfield St Aubrun Sobers, AO, OCC (born 28 July 1936), also known as Gary or Garry Sobers, is a former cricketer who played for the West Indies between 1954 and 1974, and is widely considered to be cricket\'s greatest all-rounder.\nOn 31 August 1968, Sobers became the first batsman ever to hit six sixes in a single over of six consecutive balls in first-class cricket. The feat consisted of five clean hits for six and one six where the ball was caught but carried over the boundary by Roger Davis.\nSobers was playing as captain of Nottinghamshire against Glamorgan at St. Helen\'s in Swansea; the unfortunate bowler was Malcolm Nash. This tally of 36 runs in an over broke a 57-year-old record of 34 runs, held by Ted Alletson. In 1984–85, Indian batsman Ravi Shastri equalled the record by scoring six sixes in an over while playing for Bombay versus Baroda."
+}

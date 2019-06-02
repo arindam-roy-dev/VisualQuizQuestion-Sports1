@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"How many number of Red Balls are in Snooker?",
+"answers":[
+	"7",
+	"11",
+	"15",
+	"21"
+	],
+"correctAnswer":3,
+"hints":[
+	"There are total 22 balls to play with",
+	"Most of them are red balls",
+	"There are 6 color balls other than Red"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Snooker is a cue sport which originated among British Army officers stationed in India in the later half of the 19th century.\nIt is played on a rectangular table covered with a green cloth, or baize, with pockets at each of the four corners and in the middle of each long side. Using a cue and 21 coloured balls, players must strike the white ball (or \"cue ball\") to pot the remaining balls in the correct sequence, accumulating points for each pot. An individual game, or frame, is won by the player scoring the most points. A match is won when a player wins a predetermined number of frames.\nThe game grew in popularity in the United Kingdom, and the Billiards Association and Control Club was formed in 1919. It is now governed by the World Professional Billiards and Snooker Association (WPBSA). There are 22 balls (15 red, 6 colour balls and a white cue ball), 52.5 mm or 2​1⁄16 inches in diameter."
+}

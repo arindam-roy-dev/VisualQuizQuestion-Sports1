@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which game was previously known as Mintonette?",
+"answers":[
+	"Volleyball",
+	"Tennis",
+	"Baseball",
+	"Badminton"
+	],
+"correctAnswer":1,
+"hints":[
+	"A name derived from the game of Badminton",
+	"The game took some of its characteristics from other sports such as Tennis and Handball"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"In the winter of 1895, in Holyoke, Massachusetts (United States), William G. Morgan, a YMCA physical education director, created a new game called Mintonette, a name derived from the game of badminton, as a pastime to be played (preferably) indoors and by any number of players.The game took some of its characteristics from other sports such as tennis and handball. Another indoor sport, basketball, was catching on in the area, having been invented just ten miles (sixteen kilometers) away in the city of Springfield, Massachusetts, only four years before. Mintonette was designed to be an indoor sport, less rough than basketball, for older members of the YMCA, while still requiring a bit of athletic effort.\nAfter an observer, Alfred Halstead, noticed the volleying nature of the game at its first exhibition match in 1896, played at the International YMCA Training School (now called Springfield College), the game quickly became known as Volleyball. Volleyball rules were slightly modified by the International YMCA Training School and the game spread around the country to various YMCAs."
+}

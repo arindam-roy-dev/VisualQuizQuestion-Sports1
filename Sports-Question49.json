@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which Game was previously called \'British Empire Games\'?",
+"answers":[
+	"Asian Games",
+	"Mediterranean Games",
+	"Olympic Games",
+	"Commonwealth Games"
+	],
+"correctAnswer":4,
+"hints":[
+	"The event was first held in 1930",
+	"Games were known as the British Empire Games from 1930 to 1950"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Commonwealth Games are an international multi-sport event involving athletes from the Commonwealth of Nations. The event was first held in 1930, and has taken place every four years since then. The Commonwealth Games were known as the British Empire Games from 1930 to 1950, the British Empire and Commonwealth Games from 1954 to 1966, and British Commonwealth Games from 1970 to 1974. It is the world\'s first multi-sport event which inducted equal number of women\'s and men\'s medal events and was implemented recently in the 2018 Commonwealth Games.\nTheir creation was inspired by the Inter-Empire Championships, as a part of the Festival of Empire, which were held in London, United Kingdom in 1911. Melville Marks Robinson founded the games as the British Empire Games which were first hosted in Hamilton in 1930."
+}
