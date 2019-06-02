@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which Tennis player was the first to win five straight Wimbledon tennis titles?",
+"answers":[
+	"Björn Borg",
+	"Ken Rosewall",
+	"John McEnroe",
+	"Tommy Haas"
+	],
+"correctAnswer":1,
+"hints":[
+	"Swedish tennis player",
+	"Between 1974 and 1981 he became the first man in the Open Era to win 11 Grand Slam singles titles (six at the French Open and five consecutive at Wimbledon)"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Björn Rune Borg (born 6 June 1956) is a Swedish former world No. 1 tennis player widely considered to be one of the greatest players in the history of the sport.\nBetween 1974 and 1981 he became the first man in the Open Era to win 11 Grand Slam singles titles (six at the French Open and five consecutive at Wimbledon). He also won three year-end championships and 16 Grand Prix Super Series titles. Overall, he set numerous records that still stand. Borg is the first player to win six French Open singles titles and was undefeated in French Open finals.\nA teenage sensation at the start of his career, Borg\'s unprecedented stardom and consistent success helped propel the rising popularity of tennis during the 1970s. As a result, the professional tour became more lucrative, and in 1979 he was the first player to earn more than one million dollars in prize money in a single season. He also made millions in endorsements throughout his career. However, the constant attention and pressure eventually caused burnout and his retirement at the age of 26."
+}

@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Sachin Tendulkar hit his 100th international century against which among the following team?",
+"answers":[
+	"Sri Lanka",
+	"Bangladesh",
+	"South Africa",
+	"Pakistan"
+	],
+"correctAnswer":2,
+"hints":[
+	"Tendulkar scored his 100th international hundred on 16 March 2012, at Mirpur, in the Asia Cup",
+	"It was against Asian Team",
+	"It happened at the home ground of that Country"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Sachin Ramesh Tendulkar (born 24 April 1973) is an Indian former international cricketer and a former captain of the Indian national team.\nHe is often regarded as the greatest batsman in the history of cricket. He is the highest run scorer of all time in International cricket. Tendulkar took up cricket at the age of eleven, made his Test debut on 15 November 1989 against Pakistan in Karachi at the age of sixteen, and went on to represent Mumbai domestically and India internationally for close to twenty-four years.\nHe is the only player to have scored one hundred international centuries, the first batsman to score a double century in an ODI, the holder of the record for the most number of runs in both Test and ODI, and the only player to complete more than 30,000 runs in international cricket.\nTendulkar scored his 100th international hundred on 16 March 2012, at Mirpur against Bangladesh in the Asia Cup. He became the first person in history to achieve this feat, which was also his first ODI hundred against Bangladesh. Despite Tendulkar\'s century, India failed to win the match against Bangladesh, losing by 5 wickets."
+}
