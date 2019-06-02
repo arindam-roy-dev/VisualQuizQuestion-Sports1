@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Who is this Player?",
+"answers":[
+	"Marcelo",
+	"Ronaldinho",
+	"Kaka",
+	"Ronaldo"
+	],
+"correctAnswer":1,
+"hints":[
+	"Brazilian professional footballer",
+	"2014 FIFA World Cup was his first World Cup"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Marcelo Vieira da Silva Junior (born 12 May 1988), known as Marcelo, is a Brazilian professional footballer for Spanish club Real Madrid and the Brazil national team. He plays mainly as a left back, but can also operate as a left winger.\nIn 2005, he won a Campeonato Carioca with Fluminense and in 2006, he was named to the Brasileirao Team of the Season, at age 18. By the end of the year, he joined Real Madrid for a $8 million fee. There, he established himself as a Real Madrid legend and won 20 trophies.\nMarcelo debuted for Brazil in 2006 against Wales, scoring a goal. He was called up for the 2008 Olympic squad, where he won a bronze medal. Four years later, he was part of Brazil\'s 2012 Olympic team, as one of the three over-age players, where Brazil won a silver medal. Marcelo was selected as a member of Brazil to play in the 2013 Confederations Cup and started all five matches, as Brazil won 3–0 against Spain in the final.\nHe was part of Brazil\'s squad in the 2014 FIFA World Cup which was his first World Cup. Brazil reached the semi-finals and he was named to the tournament\'s Dream Team. In May 2018, he was named in the final squad for the 2018 FIFA World Cup where he once again was named to the tournament\'s Dream Team."
+}

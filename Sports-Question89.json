@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Sports?",
+"answers":[
+	"Horse Racing",
+	"Bull Fighting",
+	"Rowing",
+	"Polo"
+	],
+"correctAnswer":4,
+"hints":[
+	"It is a horseback mounted team sport",
+	"Governed by Federation of International Polo"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Polo is a horseback mounted team sport. It is one of the world\'s oldest known team sports.\nPolo was first played in Persia (Iran) at dates given from the 6th century BC to the 1st century AD. Polo was at first a training game for cavalry units, usually the king\'s guard or other elite troops. From there it spread to entire Persia and beyond. It is now popular around the world, with well over 100 member countries in the Federation of International Polo. It is played professionally in 16 countries. It was an Olympic sport from 1900 to 1936.\nThe game is played by two opposing teams with the objective of scoring goals by using a long-handled wooden mallet to hit a small hard ball through the opposing team\'s goal. Each team has four mounted riders, and the game usually lasts one to two hours, divided into periods called chukkas (or \"chukkers\").\nArena polo has similar rules, and is played with three players per team. The playing area is smaller, enclosed, and usually of compacted sand or fine aggregate, often indoors. Arena polo has more maneuvering due to space limitations, and uses an air inflated ball, slightly larger than the hard field polo ball. Standard mallets are used, though slightly larger head arena mallets are an option."
+}

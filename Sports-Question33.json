@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Athlete?",
+"answers":[
+	"Carl Lewis",
+	"Usain Bolt",
+	"Michael Jordan",
+	"Ben Johnson"
+	],
+"correctAnswer":2,
+"hints":[
+	"He is a Jamaican retired sprinter",
+	"World record holder in the 100 metres, 200 metres and 4 × 100 metres relay",
+	"He is the only sprinter to win Olympic 100 m and 200 m titles at three consecutive Olympics (2008, 2012 and 2016)"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Usain St Leo Bolt (born 21 August 1986) is a Jamaican retired sprinter. He is a world record holder in the 100 metres, 200 metres and 4 × 100 metres relay. His reign as Olympic Games champion in all of these events spans three Olympics. Owing to his achievements and dominance in sprint competition, he is widely considered to be the greatest sprinter of all time.\nA nine-time Olympic gold medalist, Bolt won the 100 m, 200 m and 4 × 100 m relay at three consecutive Olympic Games, although he lost the 2008 relay gold medal about nine years afterward due to a teammate\'s long-delayed doping disqualification. He gained worldwide fame for his double sprint victory in world record times at the 2008 Beijing Olympics, which made him the first person to hold both records since fully automatic time became mandatory. Bolt is the only sprinter to win Olympic 100 m and 200 m titles at three consecutive Olympics (2008, 2012 and 2016).\nBolt improved upon his second 100 m world record of 9.69 with 9.58 seconds in 2009 – the biggest improvement since the start of electronic timing. He has twice broken the 200 metres world record, setting 19.30 in 2008 and 19.19 in 2009. He has helped Jamaica to three 4 × 100 metres relay world records, with the current record being 36.84 seconds set in 2012."
+}

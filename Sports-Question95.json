@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Sports?",
+"answers":[
+	"Water Skiing",
+	"Rowing",
+	"Water Rafting",
+	"Kayaking"
+	],
+"correctAnswer":2,
+"hints":[
+	"It\'s a Team Game",
+	"It involves propelling a boat (racing shell) on water using oars",
+	"FISA is responsible for international governance of this sport"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Rowing, sometimes referred to as crew in the United States, is a sport whose origins reach back to Ancient Egyptian times. It involves propelling a boat (racing shell) on water using oars. By pushing against the water with an oar, a force is generated to move the boat.\nThere are a number of different boat classes in which athletes compete, ranging from an individual shell (called a single scull) to an eight-person shell with a coxswain (called a coxed eight).\nThe International Rowing Federation (FISA), responsible for international governance of rowing, was founded in 1892 to provide regulation at a time when the sport was gaining popularity. Across six continents, 150 countries now have rowing federations that participate in the sport.\nRowing is one of the oldest Olympic sports. Though it was on the programme for the 1896 games, racing did not take place due to bad weather. Male rowers have competed since the 1900 Summer Olympics. Women\'s rowing was added to the Olympic programme in 1976. Today, there are fourteen boat classes which race at the Olympics: Each year the World Rowing Championships are staged by FISA with 22 boat classes that race."
+}
