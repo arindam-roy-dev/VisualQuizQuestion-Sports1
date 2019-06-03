@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which professional Basketball player scored 100 points in one game?",
+"answers":[
+	"Richie Guerin",
+	"Wilt Chamberlain",
+	"Tom Meschery",
+	"Paul Arizin"
+	],
+"correctAnswer":2,
+"hints":[
+	"Single-game scoring record in the NBA by scoring 100 points in a 169–147 win over the New York Knicks on March 2, 1962",
+	"He was from Philadelphia Warriors Team",
+	"Richie Guerin was from New York Knicks Team"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Wilt Chamberlain set the single-game scoring record in the National Basketball Association (NBA) by scoring 100 points for the Philadelphia Warriors in a 169–147 win over the New York Knicks on March 2, 1962, at Hershey Sports Arena in Hershey, Pennsylvania.\nIt is widely considered one of the greatest records in basketball. Chamberlain set five other league records that game including most free throws made, a notable achievement, as he was regarded as a poor free throw shooter. The teams broke the record for most combined points in a game (316). That season, Chamberlain averaged a record 50.4 points per game, and he had broken the NBA single-game scoring record (71) earlier in the season in December with 78 points. The third-year center had already set season scoring records in his first two seasons. In the fourth quarter, the Knicks began fouling other players to keep the ball away from Chamberlain, and they also became deliberate on offense to reduce the number of possessions for Philadelphia. The Warriors countered by committing fouls of their own to get the ball back."
+}

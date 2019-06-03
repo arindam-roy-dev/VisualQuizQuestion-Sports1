@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Who was the first gymnast in Olympic history to score a perfect 10?",
+"answers":[
+	"Nadia Comaneci",
+	"Mary Lou Retton",
+	"Olga Korbut",
+	"Kerri Strug"
+	],
+"correctAnswer":1,
+"hints":[
+	"Romanian retired gymnast and a five-time Olympic gold medalist",
+	"She has lived in the United States since 1989 and is married to American Olympic gold medal gymnast Bart Conner",
+	"Olga Korbut is a Soviet Belarusian former gymnast"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Nadia Elena Comaneci (born 12 November 1961) is a Romanian retired gymnast and a five-time Olympic gold medalist, all in individual events. Comaneci is the first gymnast to be awarded a perfect score of 10.0 at the Olympic Games, and then, at the same Games (1976 Summer Olympics in Montreal), she received six more perfect 10s en route to winning three gold medals.\nAt the 1980 Summer Olympics in Moscow, she won two more gold medals and attained two more perfect 10s. During her career, Comaneci won nine Olympic medals and four World Artistic Gymnastics Championship medals.\nComaneci is one of the world\'s best-known gymnasts and is credited with popularizing the sport around the globe. In 2000, she was named as one of the Athletes of the 20th Century by the Laureus World Sports Academy. She has lived in the United States since 1989 and is married to American Olympic gold medal gymnast Bart Conner."
+}

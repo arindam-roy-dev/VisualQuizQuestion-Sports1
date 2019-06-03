@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which country won Davis cup in 2018?",
+"answers":[
+	"Croatia",
+	"France",
+	"Argentina",
+	"Belgium"
+	],
+"correctAnswer":1,
+"hints":[
+	"This country won the Davis Cup on 25 November with a 3–1 win over France",
+	"European Country"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Davis Cup is an annual international team event in men's tennis. Established in 1900 as the International Lawn Tennis Challenge, it is run by the International Tennis Federation (ITF), who describe it as the \"World Cup of tennis\". The first event in 1900 was a match between Great Britain and the United States, while 135 nations have entered the 2016 Davis Cup.\nThe tournament sees players competing for their country in four singles and one doubles matches, known as rubbers, over the course of three days, with the team that wins three rubbers progressing. The countries are divided into groups based upon their location or performance in previous years. The Davis Cup World Group is the top level of the competition and features matches between players from the top 16 countries at the start of the year. Countries that lose their first round match face a relegation play-off against winning countries from the continental zones. World Group winning countries progress to the quarter-finals. Nations have to win a further three ties in order to claim the position of Davis Cup champions.\nThe 2018 Davis Cup was the 107th edition of the Davis Cup, a tournament between national teams in men\'s tennis. In 2018, new rules were introduced for the Group I and II zonal events, with ties now being played as best-of-three sets over the course of two days. Croatia won the Davis Cup on 25 November with a 3–1 win over France."
+}
