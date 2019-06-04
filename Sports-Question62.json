@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"How many Players form an ice Hockey Team?",
+"answers":[
+	"6 Players",
+	"7 Players",
+	"10 Players",
+	"11 Players"
+	],
+"correctAnswer":1,
+"hints":[
+	"There are 2 Defensemen in a Team",
+	"There are 3 Forwards in a Team",
+	"There is 1 Goaltender in a Team"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Ice hockey is a contact team sport played on ice, usually in a rink, in which two teams of skaters use their sticks to shoot a vulcanized rubber puck into their opponent\'s net to score points.\nThe sport is known to be fast-paced and physical, with teams usually consisting of six players each: one goaltender, and five players who skate up and down the ice trying to take the puck and score a goal against the opposing team.\nIce hockey is most popular in Canada, central and eastern Europe, the Nordic countries, Russia and the United States. Ice hockey is the official national winter sport of Canada. In addition, ice hockey is the most popular winter sport in Belarus, Croatia, the Czech Republic, Finland, Latvia, Russia, Slovakia, Sweden, and Switzerland."
+}

@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Which cyclist was called \"The Cannibal\"?",
+"answers":[
+	"Miguel Indurain",
+	"Binard Hinault",
+	"Fausto Coppi",
+	"Eddy Merckx"
+	],
+"correctAnswer":4,
+"hints":[
+	"Belgian former professional road and track bicycle racer",
+	"He is one of only three riders to have won all five \'Monuments\'",
+	"Bernard Hinault is a French former professional cyclist",
+	"Angelo Fausto Coppi was an Italian cyclist"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Édouard Louis Joseph, Baron Merckx (born 17 June 1945), better known as Eddy Merckx, is a Belgian former professional road and track bicycle racer who is widely seen as the most successful rider in the history of competitive cycling.\nHis victories include an unequalled eleven Grand Tours (five Tours of France, five Tours of Italy, and a Tour of Spain), all of the five Monuments, three World Championships, the hour record, every major one-day race other than Paris–Tours, and extensive victories on the track.\nHe acquired the nickname \"The Cannibal\", suggested by the daughter of a teammate upon being told by her father of how Merckx would not let anyone else win. Merckx achieved 525 victories over his eighteen-year career. He is one of only three riders to have won all five \'Monuments\' (Milan–San Remo, Tour of Flanders, Paris–Roubaix, Liège–Bastogne–Liège, and the Giro di Lombardia) and the only one to have won them all twice or more."
+}

@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Which Ball is worth the most points in Snooker?",
+"answers":[
+	"Red Ball",
+	"Green Ball",
+	"Blue Ball",
+	"Black Ball"
+	],
+"correctAnswer":4,
+"hints":[
+	"Red ball scores 1 point",
+	"Green ball scores 3 points",
+	"Blue ball scores 5 points",
+	"Maximum points could be scored is 7"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Snooker is a cue sport which originated among British Army officers stationed in India in the later half of the 19th century.\nIt is played on a rectangular table covered with a green cloth, or baize, with pockets at each of the four corners and in the middle of each long side. Using a cue and 21 coloured balls, players must strike the white ball (or \"cue ball\") to pot the remaining balls in the correct sequence.\nThe game continues in this manner until all the reds are potted and only the six colours are left on the table. At this point the colours must be potted in the order from least to most valuable ball – that is, yellow first (two points), then green (three points), brown (four points), blue (five points), pink (six points) and finally black (seven points), the balls not being returned to play."
+}
