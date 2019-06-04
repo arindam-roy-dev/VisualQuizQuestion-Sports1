@@ -1,0 +1,23 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Golfer?",
+"answers":[
+	"Tiger Woods",
+	"Rory McIlroy",
+	"Justin Rose",
+	"Phil Mickelson"
+	],
+"correctAnswer":4,
+"hints":[
+	"Nicknamed is Lefty",
+	"American professional Golfer",
+	"He is one of 16 players in the history of golf to win at least three of the four majors",
+	"Rory McIlroy MBE is a professional golfer from Northern Ireland",
+	"Justin Peter Rose is a professional golfer from England"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Philip Alfred Mickelson (born June 16, 1970), nicknamed Lefty, is an American professional golfer. He has won 44 events on the PGA Tour, including five major championships: three Masters titles (2004, 2006, 2010), a PGA Championship (2005), and an Open Championship (2013).\nMickelson is one of 16 players in the history of golf to win at least three of the four majors. He has won every major except the U.S. Open, where he has finished runner-up a record six times.\nMickelson has spent over 25 consecutive years in the top 50 of the Official World Golf Ranking. He has spent over 700 weeks in the top-10, has reached a career-high world ranking of No. 2 several times and is a life member of the PGA Tour. Known for his left-handed swing, even though otherwise right-handed, he learned by mirroring his right-handed father\'s swing. He was inducted into the World Golf Hall of Fame in 2012."
+}
