@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"At what number does one begin when playing Darts?",
+"answers":[
+	"Number 1",
+	"Number 20",
+	"Number 3",
+	"Number 501"
+	],
+"correctAnswer":4,
+"hints":[
+	"Starts with a large number and ends to Zero",
+	"Greater than 10"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A game of darts is generally contested between two players, who take turns. The most common objective is to reduce a fixed score, commonly 301 or 501, to zero (\"checking out\").\nThe final dart must land in either the bullseye or a double segment in order to win. It is not necessary that all three darts are thrown on the final turn, the game can be finished on any of the three darts. When two teams play, the starting score is sometimes increased to 701 or even 1001; the rules remain the same.\nA throw that reduces a player\'s score below zero, to exactly one, or to zero but not ending with a double is known as \"going bust\", with the player\'s score being reset to the value prior to starting the turn, and the remainder of the turn being forfeited.\nThe minimum number of thrown darts required to complete a leg of 501 is nine. The most common nine dart finish consists of two 180 maximums followed by a 141 checkout (T20-T19-D12), but there are many other possible ways of achieving the feat. Three 167s (T20-T19-Bull) is considered a pure or perfect nine-dart finish by some players."
+}

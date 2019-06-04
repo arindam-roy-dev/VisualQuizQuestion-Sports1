@@ -1,21 +1,21 @@
 {
 "app":"Visual Quiz",
-"question":"Who is the highest wicket taker in Test cricket?",
+"question":"How many Minutes is a Rugby Match?",
 "answers":[
-	"Shane Warne",
-	"Wasim Akram",
-	"Muttiah Muralitharan",
-	"Shahid Afridi"
+	"30 Minutes",
+	"40 Minutes",
+	"80 Minutes",
+	"90 Minutes"
 	],
 "correctAnswer":3,
 "hints":[
-	"Indian batsman Pragyan Ojha was the last wicket",
-	"He retired from Test cricket in 2010, registering his 800th and final wicket on 22 July 2010 from his final ball in his last Test match",
-	"Asian Cricketer"
+	"More than 30 minutes",
+	"Less than 90 minutes",
+	"Games are divided into 40-minute halves, with a break in the middle"
 	],
 "earn":{
-	"hints":0,
+	"hints":1,
 	"hideAnswers":1
 	},
-"aboutAnswer":"Deshabandu Muttiah Muralitharan (born 17 April 1972), is a former Sri Lankan cricketer who was rated the greatest Test match bowler ever by Wisden Cricketers\' Almanack in 2002. He retired from Test cricket in 2010, registering his 800th and final wicket on 22 July 2010 from his final ball in his last Test match.\nMuralitharan holds the world record for the most wickets in both test and one-day cricket. In 2017, he became the only Sri Lankan to be inducted into the ICC Hall of Fame. He won the Ada Derana Sri Lankan of the Year in 2017.\nAt the start of his last match, Muralitharan was eight short of 800 wickets. At the fall of the ninth wicket of the Indian\'s second innings Muralitharan still needed one wicket to reach the milestone. After 90 minutes of resistance Muralitharan was able to dismiss the last Indian batsman Pragyan Ojha on the last delivery of the final over of his Test career. By doing so he became the only bowler to reach 800 wickets in Test cricket. Sri Lanka won the match by 10 wickets, the seventh time they have done so and the second time they have done it against India."
+"aboutAnswer":"Rugby union, commonly known in most of the world simply as rugby, is a contact team sport which originated in England in the first half of the 19th century. One of the two codes of rugby football, it is based on running with the ball in hand. In its most common form, a game is between two teams of 15 players using an oval-shaped ball on a rectangular field with H-shaped goalposts at each end.\nAt the beginning of the game, the captains and the referee toss a coin to decide which team will kick off first. Play then starts with a dropkick, with the players chasing the ball into the opposition\'s territory, and the other side trying to retrieve the ball and advance it.\nGames are divided into 40-minute halves, with a break in the middle. The sides exchange ends of the field after the half-time break. Stoppages for injury or to allow the referee to take disciplinary action do not count as part of the playing time, so that the elapsed time is usually longer than 80 minutes. The referee is responsible for keeping time, even when—as in many professional tournaments—he is assisted by an official time-keeper."
 }

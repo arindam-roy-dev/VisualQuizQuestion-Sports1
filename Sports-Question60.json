@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"How long is an Olympic Swimming Pool (Long Course)?",
+"answers":[
+	"50 metres",
+	"25 metres",
+	"100 metres",
+	"75 metres"
+	],
+"correctAnswer":1,
+"hints":[
+	"Less than 100 metres",
+	"Short course swimming pools are 25 metres in length"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"An Olympic-size swimming pool conforms to regulated dimensions, large enough for international competition. This type of swimming pool is used in the Olympic Games, where the race course is 50 metres (164.0 ft) in length, typically referred to as \"long course\", distinguishing it from \"short course\" which applies to competitions in pools that are 25 metres (82.0 ft) in length.\nIf touch panels are used in competition, then the distance between touch panels should be either 25 or 50 metres to qualify for FINA recognition. This means that Olympic pools are generally oversized, to accommodate touch panels used in competition.\nAn Olympic-size swimming pool is used as a colloquial unit of volume, to make approximate comparisons to similarly sized objects or volumes. It is not a specific definition, as there is no official limit on the depth of an Olympic pool. The value has an order of magnitude of 1 megaliter (ML)."
+}
