@@ -2,7 +2,7 @@
 "app":"Visual Quiz",
 "question":"What is the name of this Stadium?",
 "answers":[
-	"Lord's Cricket Ground",
+	"Lord\'s Cricket Ground",
 	"Eden Gardens",
 	"Queenstown Events Centre",
 	"Wembley Stadium"
@@ -16,5 +16,5 @@
 	"hints":2,
 	"hideAnswers":1
 	},
-"aboutAnswer":"Lord's Cricket Ground, commonly known simply as Lord's, is a cricket venue in St John's Wood, London. Lord's is widely referred to as the Home of Cricket and is home to the world's oldest sporting museum."
+"aboutAnswer":"Lord\'s Cricket Ground, commonly known simply as Lord\'s, is a cricket venue in St John\'s Wood, London. Lord's is widely referred to as the Home of Cricket and is home to the world\'s oldest sporting museum."
 }
