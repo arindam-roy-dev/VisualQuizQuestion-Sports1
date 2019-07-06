@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"How many rings are in the symbol of Olympic Games?",
+"answers":[
+	"3",
+	"5",
+	"7",
+	"8"
+	],
+"correctAnswer":3,
+"hints":[
+	"Rings and represents the unity of the inhabited Continents",
+	"Less than 8",
+	"Less than 7"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Olympic Movement uses symbols to represent the ideals embodied in the Olympic Charter. The Olympic symbol, better known as the Olympic rings, consists of five intertwined rings and represents the unity of the five inhabited continents (Africa, America, Asia, Australia and Europe).\nThe coloured version of the rings — blue, yellow, black, green, and red — over a white field forms the Olympic flag. These colours were chosen because every nation had at least one of them on its national flag. The flag was adopted in 1914 but flown for the first time only at the 1920 Summer Olympics in Antwerp, Belgium. It has since been hoisted during each celebration of the Games.\nThe Olympic motto, Citius, Altius, Fortius, a Latin expression meaning \"Faster, Higher, Stronger\" was proposed by Pierre de Coubertin in 1894 and has been official since 1924. The motto was coined by Coubertin\'s friend, the Dominican priest Henri Didon OP, for a Paris youth gathering of 1891.\nMonths before each Games, the Olympic Flame is lit in Olympia in a ceremony that reflects ancient Greek rituals. A female performer, acting as a priestess, ignites a torch by placing it inside a parabolic mirror which focuses the sun\'s rays; she then lights the torch of the first relay bearer, thus initiating the Olympic torch relay that will carry the flame to the host city\'s Olympic stadium, where it plays an important role in the opening ceremony. Though the flame has been an Olympic symbol since 1928, the torch relay was only introduced at the 1936 Summer Games to promote the Third Reich."
+}

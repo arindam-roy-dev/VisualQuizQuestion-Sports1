@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which track held the First Formula One Race?",
+"answers":[
+	"Silverstone, Britain",
+	"Buddha Circuit, India",
+	"Albert Park, Australia",
+	"Shanghai International Circuit, China"
+	],
+"correctAnswer":1,
+"hints":[
+	"The first world championship race was held in 1950",
+	"It is a motor racing circuit located next to the Northamptonshire villages"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Formula One series originated with the European Championship of Grand Prix motor racing of the 1920s and 1930s.\nThe formula is a set of rules that all participants\' cars must meet. Formula One was a new formula agreed upon after World War II during 1946, with the first non-championship races being held that year. The first one, the first Formula 1 race ever, was the Turin Grand Prix. A number of Grand Prix racing organisations had laid out rules for a world championship before the war, but due to the suspension of racing during the conflict, the World Drivers\' Championship was not formalised until 1947.\nThe first world championship race was held at Silverstone, United Kingdom in 1950. A championship for constructors followed in 1958. National championships existed in South Africa and the UK in the 1960s and 1970s.\nNon-championship Formula One events were held for many years, but due to the increasing cost of competition, the last of these occurred in 1983. On 26 November 2017, Formula One unveiled its new logo, following the 2017 season finale in Abu Dhabi during the Abu Dhabi Grand Prix at Yas Marina Circuit. The new logo replaced F1\'s iconic \'flying one\', which had been the sport\'s trademark since 1993."
+}

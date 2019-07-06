@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Game of Cricket was invented in which country?",
+"answers":[
+	"India",
+	"Australia",
+	"England",
+	"West Indies"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is generally believed that cricket originated as a children\'s game during the medieval period",
+	"Sidlesham in Sussex state that two parishioners, Bartholomew Wyatt and Richard Latter, failed to attend church on Easter Sunday because they were playing cricket."
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"It is generally believed that cricket originated as a children\'s game in the south-eastern counties of England, sometime during the medieval period. Although there are claims for prior dates, the earliest definite reference to cricket being played comes from evidence given at a court case in Guildford on 30 January 1598 in the Gregorian calendar.\nAlthough the main object of the game has always been to score the most runs, the early form of cricket differed from the modern game in certain key technical aspects. The ball was bowled underarm by the bowler and all along the ground towards a batsman armed with a bat that, in shape, resembled a hockey stick; the batsman defended a low, two-stump wicket; and runs were called \"notches\" because the scorers recorded them by notching tally sticks.\nIn 1611, the year Cotgrave\'s dictionary was published, ecclesiastical court records at Sidlesham in Sussex state that two parishioners, Bartholomew Wyatt and Richard Latter, failed to attend church on Easter Sunday because they were playing cricket. They were fined 12d each and ordered to do penance. This is the earliest mention of adult participation in cricket and it was around the same time that the earliest known organised inter-parish or village match was played – at Chevening, Kent. In 1624, a player called Jasper Vinall died after he was accidentally struck on the head during a match between two parish teams in Sussex.\nThe game underwent major development in the 18th century to become England\'s national sport."
+}

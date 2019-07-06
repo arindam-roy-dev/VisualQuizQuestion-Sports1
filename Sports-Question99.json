@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Early cricket bats were shaped like?",
+"answers":[
+	"Flat sticks",
+	"Rackets",
+	"Hockey sticks",
+	"Curved outwards"
+	],
+"correctAnswer":3,
+"hints":[
+	"It was very similar to some other sport\'s stick\'s shape"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Game of Cricket underwent major development in the 18th century to become England\'s national sport. Its success was underwritten by the twin necessities of patronage and betting.\nCricket was prominent in London as early as 1707 and, in the middle years of the century, large crowds flocked to matches on the Artillery Ground in Finsbury. The single wicket form of the sport attracted huge crowds and wagers to match, its popularity peaking in the 1748 season.\nBowling underwent an evolution around 1760 when bowlers began to pitch the ball instead of rolling or skimming it towards the batsman. This caused a revolution in bat design because, to deal with the bouncing ball, it was necessary to introduce the modern straight bat in place of the old \"Hockey Stick\" shape."
+}

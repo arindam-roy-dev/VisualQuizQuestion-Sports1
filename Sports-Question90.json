@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"In Formula One Race, how many Cars are allowed in track by a Race Team?",
+"answers":[
+	"1",
+	"2",
+	"3",
+	"4"
+	],
+"correctAnswer":2,
+"hints":[
+	"Less than Four",
+	"More than One"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"A Formula One race or Grand Prix is a sporting event which takes place over three days (usually Friday to Sunday), with a series of practice and qualifying sessions prior to a race on Sunday.\nAs of 2019, ten teams are entered for the Formula One World Championship, each entering two cars for a total of twenty cars. The regulations place a limit of twenty-six entries for the championship.\nAt some periods in the history of Formula One the number of cars entered for each race has exceeded the number permitted, which historically would vary from race to race according to the circuit used. Monaco, for example, for many years allowed only twenty cars to compete because of the restricted space available. The slowest cars excess to the circuit limit would not qualify for the race and would be list as \'Did Not Qualify\' (DNQ) in race results."
+}
