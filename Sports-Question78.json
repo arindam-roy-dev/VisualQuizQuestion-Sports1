@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the National Sports of Afghanistan?",
+"answers":[
+	"Buzkashi",
+	"Horse Racing",
+	"Horse Fighting",
+	"Polo"
+	],
+"correctAnswer":1,
+"hints":[
+	"Traditionally, games could last for several days, but in its more regulated tournament version, it has a limited match time"
+	"Horse mounted players attempt to place a goat or calf carcass in a goal"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Buzkashi is a Central Asian sport in which horse-mounted players attempt to place a goat or calf carcass in a goal. Similar games are known as kokpar, kupkari and ulak tartysh, in Kyrgyzstan and Kazakhstan and as kökbörü and gökbörü in Turkey, where it is played mainly by communities originally from Central Asia.\nBuzkashi began among the nomadic Turkic peoples who came from farther north and east spreading westward from China and Mongolia between the 10th and 15th centuries in a centuries-long series of migrations that ended only in the 1930s. From Scythian times until recent decades, buzkashi has remained a legacy of that bygone era.\nDuring the rule of the Taliban regime, buzkashi was banned in Afghanistan, as the Taliban considered the game immoral. After the Taliban regime was ousted, the game resumed being played.\nBuzkashi is the national sport and a \"passion\" in Afghanistan where it is often played on Fridays and matches draw thousands of fans. Traditionally, games could last for several days, but in its more regulated tournament version, it has a limited match time."
+}

@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which country has won the maximum numbers of Hockey world cups?",
+"answers":[
+	"Australia",
+	"Netherlands",
+	"Pakistan",
+	"Germany"
+	],
+"correctAnswer":3,
+"hints":[
+	"Netherlands and Australia have each won three titles",
+	"Germany has won two titles",
+	"Belgium and India have both won the tournament once"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Pakistan is the most successful team, having won the tournament four times. The Netherlands and Australia have each won three titles, and Germany has won two titles. Belgium and India have both won the tournament once."
+}

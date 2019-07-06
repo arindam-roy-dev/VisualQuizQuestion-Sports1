@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"In which year, First World Cup Cricket held?",
+"answers":[
+	"1971",
+	"1975",
+	"1979",
+	"1983"
+	],
+"correctAnswer":2,
+"hints":[
+	"The First Cricket World Cup was hosted by England",
+	"Held before 1980",
+	"Third Cricket World Cup held in 1983 and India won the trophy"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The inaugural Cricket World Cup was hosted in 1975 by England, the only nation able to put forward the resources to stage an event of such magnitude at the time. The 1975 tournament started on 7 June.\nEight teams participated in the first tournament: Australia, England, India, New Zealand, Pakistan, and the West Indies (the six Test nations at the time), together with Sri Lanka and a composite team from East Africa.\nOne notable omission was South Africa, who were banned from international cricket due to apartheid. The tournament was won by the West Indies, who defeated Australia by 17 runs in the final at Lord\'s.\nRoy Fredricks of West Indies was the first batsmen who got hit-wicket in ODI during the 1975 World Cup final."
+}
