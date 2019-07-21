@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"\"National Football Museum\" which keeps FIFA collection is located in which Country?",
+"answers":[
+	"Brazil",
+	"Germany",
+	"France",
+	"England"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is located in Europe"
+	"The museum reopened in Manchester on 6 July 2012"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The National Football Museum is England\’s national museum of football. It is based in the Urbis building in Manchester city centre, and preserves, conserves and displays important collections of football memorabilia. The museum was originally based in Deepdale, Preston, Lancashire, but moved to Manchester in 2012.\nIn 2003 the museum and the University of Central Lancashire established the International Football Institute to conduct research into historical, social and cultural aspects of football.\nDespite critical acclaim and attracting 100,000 visitors per year, funding was repeatedly an issue. In 2007, it had an income of £791,256 against out-goings of £1,231,195. The trustees were concerned about the museum's long-term future. In 2009, they approached Manchester City Council about moving the museum. he city council offered a funding package worth £2m per year for the museum to move to Manchester. Despite an improved offer of £400,000 per year from Preston and Lancashire councils, the trustees voted to move the museum to the Urbis exhibition centre in Manchester.\nThe museum reopened in Manchester on 6 July 2012. The new museum aimed to attract 350,000 visitors per year. It was reported in August 2012 that the new National Football Museum attracted over 100,000 visitors in the first six weeks of opening. By the end of April 2013, the museum reached its 350,000 target, and was attracting 500,000 visitors by 2017. From January 2019, the museum adopted a charging model, while remaining free to city of Manchester residents."
+}

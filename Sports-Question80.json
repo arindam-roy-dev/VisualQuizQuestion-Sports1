@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which among the following tournament is also known as World Team Championships for Women?",
+"answers":[
+	"Thomas Cup",
+	"Uber cup",
+	"Spanish Open",
+	"Helvetia Cup"
+	],
+"correctAnswer":2,
+"hints":[
+	"It has been contested every two years since 1984",
+	"Major international badminton competition contested by women\'s national badminton teams"
+	"The 2018 tournament was held in Bangkok, Thailand and Japan won the cup"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Uber Cup, sometimes called the World Team Championships for Women, is a major international badminton competition contested by women\'s national badminton teams.\nFirst held in 1956–1957 and contested at three year intervals, it has been contested every two years since 1984 when its scheduled times and venues were merged with those of Thomas Cup, the world men\'s team championship. In 2007, BWF decided to have Thomas and Uber Cup finals separated again but the proposal was ultimately abandoned.\nThe Uber Cup is named after a former British women\'s badminton player, Betty Uber, who in 1950 had the idea of hosting a women\'s event similar to the men\'s. She also made the draw for the 1956–1957 inaugural tournament, which took place at Lytham St. Annes in Lancashire, England.\nThe cup follows a similar format to that of the men\'s competition of the Thomas Cup. As of the 2018 tournament, China is the most successful team, having won fourteen times. Japan is second, having won it six times, followed by Indonesia and United States, each with three cups. The 2018 tournament was held in Bangkok, Thailand.\nThe Uber Cup trophy was officially presented at the annual general meeting in 1956, the year the first Uber Cup tournament was first held. It was made by Mappin & Webb, prominent silversmiths on Regent Street in London. The trophy is 20 inches high with a rotating globe on top of a plinth and a female player standing on top of a shuttlecock."
+}
