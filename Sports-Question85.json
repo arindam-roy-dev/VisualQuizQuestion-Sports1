@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Penhold grip is used in which Sports?",
+"answers":[
+	"Cricket",
+	"Hockey",
+	"Golf",
+	"Table Tennis"
+	],
+"correctAnswer":4,
+"hints":[
+	"The manner in which competitive players grip their rackets can be classified into two major styles; one is penhold and the other is shakehand",
+	"Penhold styles have suffered in recent years due to their inherent weakness on the backhand side"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Table tennis is unique among racket sports in that it supports a large variety of different styles of players. As players\' levels increase, the diversity of styles decreases slightly, because technically weak styles are quickly eliminated; but, even at the very top of international table tennis, there is a large number of dramatically different styles to be found.\nAs of 2010, attacking styles dominate most of the top places in the world. However, this may be due to the relative popularity of attack over defense, as defensive players are still able to reach the final stages of international competition.\nCompetitive table tennis players grip their rackets in a variety of ways. The manner in which competitive players grip their rackets can be classified into two major families of styles; one is described as penhold and the other shakehand. The Laws of Table Tennis do not prescribe the manner in which one must grip the racket, and numerous variations on gripping styles exist.\nPenhold styles have suffered in recent years due to their inherent weakness on the backhand side. This weakness makes it much harder for penhold beginners to perform well against their shakehand counterparts. However, this has not stopped the top penhold players from winning the World Championships, the World Cup and the Olympic Games regularly, as the backhand weakness can be covered adequately with excellent footwork, or supplemented with the recent reverse penhold backhand loop innovation."
+}

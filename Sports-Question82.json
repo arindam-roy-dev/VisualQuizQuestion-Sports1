@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Formula One World Champion?",
+"answers":[
+	"Nico Rosberg",
+	"Sebastian Vettel",
+	"Lewis Hamilton",
+	"Jensson Button"
+	],
+"correctAnswer":3,
+"hints":[
+	"He is a British racing driver who races in Formula One for Mercedes-AMG Petronas Motorsport",
+	"Coming from a mixed background, with a black father and white mother, He is the first and only black driver to race in Formula One",
+	"Nico Rosberg is a German Formula One World Champion",
+	"Sebastian Vettel is also a German Formula One World Champion"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Lewis Carl Davidson Hamilton MBE (born 7 January 1985) is a British racing driver who races in Formula One for Mercedes-AMG Petronas Motorsport. A five-time Formula One World Champion, he is often considered the best driver of his generation and widely regarded as one of the greatest drivers in the history of the sport.\nHe won his first World Championship title with McLaren in 2008, then moved to Mercedes where he won back-to-back titles in 2014 and 2015 before winning back-to-back titles again in 2017 and 2018. The most successful British driver in the history of the sport, Hamilton has more World Championship titles (5) and more race victories (80) than any other British driver in Formula One.\nHe also holds records for the all-time most career points (3,241), the most wins at different circuits (26), the all-time most pole positions (86) and the most grand slams in a season (3).\nBorn and raised in Stevenage, Hertfordshire, Hamilton's interest in racing started when his father bought him a radio-controlled car when he was six. He was signed to McLaren\'s young driver support programme in 1998. After winning the British Formula Renault, Formula 3 Euro Series, and GP2 championships on his way up the racing career ladder, he made his Formula One debut twelve years after his initial encounter with Dennis, driving for McLaren in 2007. Coming from a mixed background, with a black father and white mother, Hamilton is the first and only black driver to race in Formula One."
+}

@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Kookaburras is the nickname of Hockey Team of which Country?",
+"answers":[
+	"India",
+	"Australia",
+	"Belgium",
+	"Germany"
+	],
+"correctAnswer":2,
+"hints":[
+	"They won the Hockey World Cup in 1986, 2010 and 2014",
+	"They won Olympic gold medal in 2004 in Athens",
+	"It is not an European Country"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Australia men\'s national field hockey team (nicknamed the Kookaburras) is one of the nation\'s most successful top-level sporting teams. They are the only Australian team in any sport to receive medals at the last six Summer Olympic Games (1992–2012).\nThe Kookaburras placed in the top four in every Olympics between 1980 and 2012; in 2016, the Kookaburras placed sixth. They also won the Hockey World Cup in 1986, 2010 and 2014.\nThe Kookaburras\' inability to win an Olympic gold medal despite their perennial competitiveness, led many in the Australian hockey community to speak of a \"curse\" afflicting the team, finally broken in 2004 with the win in Athens."
+}

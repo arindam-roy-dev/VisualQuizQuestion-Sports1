@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Benson & Hedges Cup is related to which Sports?",
+"answers":[
+	"Cricket",
+	"Hockey",
+	"Football",
+	"Basket Ball"
+	],
+"correctAnswer":1,
+"hints":[
+	"It was a competition for first-class counties in England and Wales that was held from 1972 to 2002",
+	"The umpires in the last final had faced each other as players in the first final 30 years before: John Hampshire for Yorkshire and Barry Dudleston for Leicestershire"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Benson & Hedges Cup was a one-day cricket competition for first-class counties in England and Wales that was held from 1972 to 2002, one of cricket\'s longest sponsorship deals.\nIt was the third major one-day competition established in England and Wales after the Sunday League and the Gillette Cup. Traditionally a \'big day out\' for the finalist\'s supporters, it was the less prestigious of the two cups. It began as a 55 over a side game, but was later reduced to 50. The winning team in the first cup final in 1972, Leicestershire won £2,500, the losing finalists Yorkshire £1,000 and Chris Balderstone, winner of the man of the match – the coveted \'Gold Award\' – £100.\nTwenty teams were organised into four zonal groups in its original format with the games played at the start of the season in May. The (then) seventeen first-class counties were joined by three other teams, Minor Counties (North), Minor Counties (South) and Cambridge University who alternated with Oxford University. Each team played the others in the group, the winners of each game awarded three points plus, in its first year, a bonus point for bowling their opponents out. The first two teams in each group went on to contest a quarter-final knock-out stage. Groups were set up to create \'derby\' games.\nThe Benson & Hedges Cup\'s later years coincided with increasing concern about the quantity of one-day cricket in England and Wales. A ban on tobacco advertising deprived the cup of its sponsor and it was wound up in 2002 in favour of the Twenty20 Cup, first held the following year. The format of the Friends Provident Trophy echoed the Benson and Hedges Cup as teams competed in a group stage before going on to knockout rounds.\nThe umpires in the last final had faced each other as players in the first final 30 years before: John Hampshire for Yorkshire and Barry Dudleston for Leicestershire."
+}
