@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is the other name of Sir Garfield Sobers Trophy?",
+"answers":[
+	"ICC Test Captain of the Year",
+	"ICC Test Player of the Year Award",
+	"ICC Cricketer of the Year Awards",
+	"ICC T20 Batsman of the Year"
+	],
+"correctAnswer":3,
+"hints":[
+	"It was first awarded in 2004 to Rahul Dravid"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Sir Garfield Sobers Trophy is a cricket trophy awarded annually by the International Cricket Council (ICC) to its chosen world player of the year. It is considered to be the most prestigious of the annual ICC Awards.\nThe trophy is named after former West Indies cricket captain Sir Garfield Sobers, whose name was chosen by a panel consisting of Richie Benaud, Sunil Gavaskar and Michael Holding. They were asked by the ICC to select \"an individual with whom to honour cricket\'s ultimate individual award\".\nIt was first awarded in 2004 to Rahul Dravid. The recipient of the annual award is selected by an \"academy\" of 56 individuals (expanded from 50 in 2004), including the current national team captains of the Test-playing nations (10), members of the elite panel of ICC umpires and referees (18), and certain prominent former players and cricket correspondents (28). In the event of a tie in the voting, the award is shared."
+}
