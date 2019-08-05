@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"\"Prince of Wales Trophy\" is related to which Sports?",
+"answers":[
+	"Boxinng",
+	"Golf",
+	"Hockey",
+	"Tennis"
+	],
+"correctAnswer":3,
+"hints":[
+	"The Prince of Wales Trophy was first announced in December 1925",
+	"The trophy was first presented in the 1925–26 NHL season to the champion of the first game in Madison Square Garden"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Prince of Wales Trophy, also known as the Wales Trophy, is an award presented by the National Hockey League (NHL) to the Eastern Conference (formerly the Wales Conference) playoff champions, prior to the final series of games for the Stanley Cup.\nNamed for Prince Edward, Prince of Wales (later King Edward VIII and then Duke of Windsor), the trophy was first presented in the 1925–26 NHL season to the champion of the first game in Madison Square Garden and then subsequently presented to the champion of the NHL playoffs (including the previous two seasons).\nHowever, the trophy has been awarded for eight different accomplishments throughout its history, including for the American Division regular season champions, the NHL regular season champions, the East Division season champions, the Wales Conference regular season champions, the Wales Conference playoff champions, and the Eastern Conference playoff champions.\nThe Prince of Wales Trophy was first announced in December 1925. It was sponsored by the then Prince of Wales, Prince Edward, and thus bore the Prince of Wales\' feathers and the shield of the Royal Coat of Arms of Canada. Costing $2,500, the trophy was said to be in the possession of the league champion. It was originally awarded to the winner of the first game played in Madison Square Garden, held on December 15, 1925 (Montreal Canadiens 3 at New York Americans 1).\nThe award was then held by the Canadiens until the end of the season. The Canadiens engraved their name on the trophy twice, for the 1924–25 season, and the preceding 1923–24 season, for which the team was league champions."
+}

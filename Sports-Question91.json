@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which team was first winner of \"World Cup Hockey\"?",
+"answers":[
+	"Netherlands",
+	"India",
+	"Australia",
+	"Pakistan"
+	],
+"correctAnswer":4,
+"hints":[
+	"The tournament was started in 1971",
+	"Asian Country"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Men\'s Hockey World Cup is an international field hockey competition organised by the International Hockey Federation (FIH). The tournament was started in 1971. It is held every four years, bridging the four years between the Summer Olympics.\nPakistan is the most successful team, having won the tournament four times."
+}

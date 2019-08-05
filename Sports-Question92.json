@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which Sports have largest number of participants in teams of either side?",
+"answers":[
+	"Rugby Union",
+	"Water Polo",
+	"Baseball",
+	"Football"
+	],
+"correctAnswer":1,
+"hints":[
+	"Each team starts the match with 15 players on the field and seven or eight substitutes",
+	"The ball is oval in shape (technically a prolate spheroid), and is made up of four panels"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"For Rugby Union, each team starts the match with 15 players on the field and seven or eight substitutes.\nThere are seven players in the water from each team at one time.\nA baseball game is played between two teams, each composed of nine players.\nIn Football, each team consists of a maximum of eleven players (excluding substitutes)."
+}
