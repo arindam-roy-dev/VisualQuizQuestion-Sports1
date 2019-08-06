@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"The \"Marquess of Queensberry rules\" is a Rule in which Sports?",
+"answers":[
+	"Boxinng",
+	"Golf",
+	"Chess",
+	"Tennis"
+	],
+"correctAnswer":1,
+"hints":[
+	"This rule was drafted in London in 1865 and published in 1867",
+	"There is no Ball used to play the Game"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Marquess of Queensberry Rules are a code of generally accepted rules in the sport of boxing.\nDrafted in London in 1865 and published in 1867, they were named so as the 9th Marquess of Queensberry publicly endorsed the code, although they were written by a Welsh sportsman named John Graham Chambers.\nThe code of rules on which modern boxing is based, the Queensberry rules were the first to mandate the use of gloves in boxing.\nThe Queensberry Rules eventually superseded the London Prize Ring Rules (revised in 1853), and are intended for use in both professional and amateur boxing matches, thus separating it from the less-popular American Fair Play Rules, which were strictly intended for amateur matches. In popular culture the term is sometimes used to refer to a sense of sportsmanship and fair play."
+}

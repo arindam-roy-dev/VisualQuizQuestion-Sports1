@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which among the following is known as \"Bible of Cricket\"?",
+"answers":[
+	"ICC Rules of Cricket",
+	"Cric Info",
+	"Wisden",
+	"The Guide to Cricketers"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is a cricket reference book published annually in the United Kingdom",
+	"ESPN cric info is a sports news website exclusively for the game of cricket. It\'s not a Rule Book."
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Wisden Cricketers\' Almanack (or simply Wisden or colloquially \"The Bible of Cricket\") is a cricket reference book published annually in the United Kingdom. The description \"Bible of Cricket\" was first used in the 1930s by Alec Waugh in a review for the London Mercury.\nIn October 2013, an all-time Test World XI was announced to mark the 150th anniversary of Wisden Cricketers\' Almanack.\nWisden was founded in 1864 by the English cricketer John Wisden (1826–84) as a competitor to Fred Lillywhite\'s The Guide to Cricketers. Its annual publication has continued uninterrupted to the present day, making it the longest running sports annual in history."
+}
