@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the National Sports of USA?",
+"answers":[
+	"Baseball",
+	"Basketball",
+	"Rugby",
+	"Hockey"
+	],
+"correctAnswer":1,
+"hints":[
+	"MLB is the top league in USA"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"American football or Baseball is the most popular spectator sport in USA.\nThe National Football League (NFL) has the highest average attendance of any sports league in the world, and the Super Bowl is watched by millions globally.\nBaseball has been regarded as the U.S. national sport since the late 19th century, with Major League Baseball (MLB) being the top league.\nBasketball and ice hockey are the country\'s next two leading professional team sports, with the top leagues being the National Basketball Association (NBA) and the National Hockey League (NHL). These four major sports, when played professionally, each occupy a season at different but overlapping, times of the year. College football and basketball attract large audiences.\nIn soccer, the country hosted the 1994 FIFA World Cup, the men\'s national soccer team qualified for ten World Cups and the women\'s team has won the FIFA Women\'s World Cup four times; Major League Soccer is the sport\'s highest league in the United States (featuring 21 American and 3 Canadian teams).\nThe market for professional sports in the United States is roughly $69 billion, roughly 50% larger than that of all of Europe, the Middle East, and Africa combined."
+}

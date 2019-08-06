@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Velodrome is an arena for which Sporting Events?",
+"answers":[
+	"Lawn tennis",
+	"Ice Hockey",
+	"Track Cycling",
+	"Formula One racing"
+	],
+"correctAnswer":3,
+"hints":[
+	"Modern velodromes feature steeply banked oval tracks",
+	"Consisting of two 180-degree circular bends connected by two straights"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A velodrome is an arena for track cycling. Modern velodromes feature steeply banked oval tracks, consisting of two 180-degree circular bends connected by two straights. The straights transition to the circular turn through a moderate easement curve.\nBicycles for velodromes have no brakes. They employ a single fixed rear gear, or cog, that does not freewheel. This helps maximise speed, reduces weight, and avoids sudden braking while nevertheless allowing the rider to slow by pushing back against the pedals.\nModern velodromes are constructed by specialised designers. The Schuermann architects in Germany have built more than 125 tracks worldwide. Most of Schuermann\'s outdoor tracks are made of wood trusswork with a surface of strips of the rare rain-forest wood Afzelia.\nIndoor velodromes are built with less expensive pine surfaces. The track is measured along a line 20 cm (7.9 in) up from the bottom. Olympic and World Championship velodromes must measure 250 m (820 ft). Other events on the UCI International Calendar may be held in velodromes that measure between 133 m (436 ft) and 500 m (1,640 ft), with a length such that a whole or half number of laps give a distance of 1 km (0.62 mi)."
+}
