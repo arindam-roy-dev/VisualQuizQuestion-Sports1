@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this american swimmer?",
+"answers":[
+	"Caeleb Dressel",
+	"Armand Duplantis",
+	"Hicham El Guerrouj",
+	"Eliud Kipchoge"
+	],
+"correctAnswer":4,
+"hints":[
+	"He holds the American records in 50-meter and 100-meter freestyle and in 50-meter and 100-meter butterfly",
+	"Armand Duplantis is an American-born Swedish pole vaulter",
+	"Hicham El Guerrouj is a retired Moroccan middle-distance runner",
+	"Eliud Kipchoge is a Kenyan long-distance runner"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Caeleb Remel Dressel (born August 16, 1996) is an American freestyle and butterfly swimmer who specializes in the sprint events.\nHe currently represents the Cali Condors which is part of the International Swimming League. He won seven gold medals at the 2017 World Aquatics Championships in Budapest and a record eight medals, including six gold, at the 2019 World Aquatics Championships in Gwangju.\nDressel is a two-time Olympic gold medalist and currently holds the world record in the 100 meter butterfly (long course).\nDressel holds the American records in 50-meter and 100-meter freestyle and in 50-meter and 100-meter butterfly (all long course). He also holds the short course records in 50-yard and 100-yard freestyle events, the 100-yard butterfly, and the 200-yard individual medley, and formerly in the 100-yard breaststroke.\nDressel was born on August 16, 1996 in Green Cove Springs, Florida, the son of Christina and Michael Dressel. He is the third of four children; his three siblings, Tyler, Kaitlyn, and Sherridon are all competitive swimmers.\nDressel attended Clay High School in Green Cove Springs, Florida, but trained with the Bolles School Sharks in Jacksonville. He was a collegiate swimmer at the University of Florida starting in 2014, and graduated in 2018."
+}

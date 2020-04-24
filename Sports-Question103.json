@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"The term \"Pitcher\" is associated with?",
+"answers":[
+	"Boxing",
+	"Baseball",
+	"Basketball",
+	"Wrestling"
+	],
+"correctAnswer":3,
+"hints":[
+	"Pitcher is the player who throws the ball toward the catcher to begin each play",
+	"Pitcher is assigned the number 1"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"In baseball, the pitcher is the player who throws the baseball from the pitcher\'s mound toward the catcher to begin each play, with the goal of retiring a batter, who attempts to either make contact with the pitched ball or draw a walk.\nIn the numbering system used to record defensive plays, the pitcher is assigned the number 1.\nThe pitcher is often considered the most important player on the defensive side of the game, and as such is situated at the right end of the defensive spectrum. There are many different types of pitchers, such as the starting pitcher, relief pitcher, middle reliever, lefty specialist, setup man, and the closer.\nTraditionally, the pitcher also bats. Starting in 1973 with the American League and spreading to further leagues throughout the 1980s and 1990s, the hitting duties of the pitcher have generally been given over to the position of designated hitter, a cause of some controversy.\nThe National League in Major League Baseball and the Japanese Central League are among the remaining leagues that have not adopted the designated hitter position.\nIn most cases, the objective of the pitcher is to deliver the pitch to the catcher without allowing the batter to hit the ball with the bat. A successful pitch is delivered in such a way that the batter either allows the pitch to pass through the strike zone, swings the bat at the ball and misses it, or hits the ball poorly (resulting in a pop fly or ground out). If the batter elects not to swing at the pitch, it is called a strike if any part of the ball passes through the strike zone and a ball when no part of the ball passes through the strike zone.\nA check swing is when the batter begins to swing, but then stops the swing short. If the batter successfully checks the swing and the pitch is out of the strike zone, it is called a ball."
+}
