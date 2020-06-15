@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which Football Club\'s logo is this?",
+"answers":[
+	"Barcelona FC",
+	"Liverpool FC",
+	"Manchester City FC",
+	"Real Madrid FC"
+	],
+"correctAnswer":1,
+"hints":[
+	"Spanish Football Club"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Futbol Club Barcelona, is a Spanish professional football club based in Barcelona, Catalonia, Spain.\nFounded in 1899 by a group of Swiss, Spanish, English, and Catalan footballers led by Joan Gamper, the club has become a symbol of Catalan culture and Catalanism, hence the motto \"Més que un club\" (\"More than a club\").\nUnlike many other football clubs, the supporters own and operate Barcelona. It is the fourth-most valuable sports team in the world, worth $4.06 billion, and the world\'s richest football club in terms of revenue, with an annual turnover of €840,8 million.\nDomestically, Barcelona has won a record 74 trophies: 26 La Liga, 30 Copa del Rey, 13 Supercopa de España, 3 Copa Eva Duarte, and 2 Copa de la Liga trophies, as well as being the record holder for the latter four competitions.\nIn international club football, the club has won 20 European and worldwide titles: 5 UEFA Champions League titles, a record 4 UEFA Cup Winners\' Cup, a joint record 5 UEFA Super Cup, a record 3 Inter-Cities Fairs Cup, and 3 FIFA Club World Cup. Barcelona was ranked first in the International Federation of Football History & Statistics Club World Ranking for 1997, 2009, 2011, 2012, and 2015 and currently occupies the third position on the UEFA club rankings.\nOn 14 March 1909, the team moved into the Camp de la Indústria, a stadium with a capacity of 8,000. To celebrate their new surroundings, the club conducted a logo contest the following year. Carles Comamala won the contest, and his suggestion became the crest that the club still wears – with some minor changes – as of the present day."
+}

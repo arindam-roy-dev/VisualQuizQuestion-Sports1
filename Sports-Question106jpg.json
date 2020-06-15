@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which country does Juventus Football Club belong to?",
+"answers":[
+	"England",
+	"Italy",
+	"Spain",
+	"Brazil"
+	],
+"correctAnswer":2,
+"hints":[
+	"European Football Club",
+	"Located in Turin, Piedmont",
+	"This is not an english club"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Juventus Football Club is an Italian professional association football club based in Turin, Piedmont.\nFounded in 1897 by a group of Torinese students, the club has worn a black and white striped home kit since 1903 and has played home matches in different grounds around its city, the latest being the 41,507-capacity Juventus Stadium.\nFounded with the name of Sport-Club Juventus, initially as an athletics club, it is the second oldest of its kind still active in the country after Genoa's football section (1893) and has competed uninterruptedly in the top flight league (reformulated as Serie A from 1929) since its debut in 1900 after changing its name to Foot-Ball Club Juventus.\nJuventus have played in black and white striped shirts, with white shorts, sometimes black shorts since 1903. Originally, they played in pink shirts with a black tie. The father of one of the players made the earliest shirts, but continual washing faded the colour so much that in 1903 the club sought to replace them.\nthe club has won 35 official league titles, 13 Coppa Italia titles and eight Supercoppa Italiana titles, being the record holder for all these competitions; two Intercontinental Cups, two European Cups / UEFA Champions Leagues, one European Cup Winners\' Cup, a joint national record of three UEFA Cups, two UEFA Super Cups and a joint national record of one UEFA Intertoto Cup."
+}
