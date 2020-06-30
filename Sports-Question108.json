@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which tabletop game is this?",
+"answers":[
+	"Carrom",
+	"Chess",
+	"Dominos",
+	"Checkers"
+	],
+"correctAnswer":1,
+"hints":[
+	"The game originated in India",
+	"ICF is the international governing body for the game"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Carrom (also spelled carom/carroms) is a tabletop game of Indian origin. The game is very popular in South Asia and the Middle East, and is known by various names in different languages.\nIn South Asia, many clubs and cafés hold regular tournaments. Carrom is very commonly played by families, including children, and at social functions. Different standards and rules exist in different areas. It became very popular in United Kingdom and the Commonwealth realms during the early 20th century.\nThe game of carrom originated in India. One carrom board with its surface made of glass is still available in one of the palaces in Patiala, India.\nIt became very popular among the masses after World War I. State-level competitions were being held in the different states of India during the early part of the nineteenth century.\nSerious carrom tournaments may have begun in Sri Lanka in 1935 but by 1958, both India and Sri Lanka had formed official federations of carrom clubs, sponsoring tournaments and awarding prizes.\nThe International Carrom Federation (ICF) was formed in the year 1988 in Chennai, India. The formal rules for the Indian version of the game were published in 1988. In the same year the ICF officially codified the rules.\nThe game has been very popular throughout South Asia, mainly in India, Pakistan, Bangladesh, Sri Lanka, Nepal and the Maldives. The game is also popular in many of the countries in the Arabian Peninsula, including Saudi Arabia, Kuwait and Bahrain. It has gained some popularity in United Kingdom, Europe, North America and Australia where it has been introduced by the Indian diaspora.\nThe UKCF was formed in 1991 in London. The main work of this organisation is to promote the game of Carrom throughout the UK and ensure the participation on Uk players in all major international championships. The UKCF have hosted 3 Euro cups in England and have had fantastic success in the tournament with UK players. UKCF organised national championships and league tournaments throughout the UK on annual basis."
+}

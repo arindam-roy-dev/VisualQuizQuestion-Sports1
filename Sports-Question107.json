@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which trophy was known as Jules Rimet Trophy?",
+"answers":[
+	"IAAF World Race Walking Cup",
+	"ICC Cricket World Cup",
+	"FIS Alpine Ski World Cup",
+	"FIFA World Cup"
+	],
+"correctAnswer":4,
+"hints":[
+	"The original Jules Rimet Trophy was stolen in 1983 and never recovered",
+	"It was put on display at the Brazilian Football Confederation headquarters in Rio de Janeiro in a cabinet with a front of bullet-proof glass"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The World Cup is a gold trophy that is awarded to the winners of the FIFA World Cup association football tournament. Since the advent of the World Cup in 1930, two trophies have been used: the Jules Rimet Trophy from 1930 to 1970, and the FIFA World Cup Trophy from 1974 to the present day.\nThe first trophy, originally named Victory, but later renamed in honour of FIFA president Jules Rimet, was made of gold plated sterling silver and lapis lazuli and depicted Nike, the Greek goddess of victory.\nBrazil won the trophy outright in 1970, prompting the commissioning of a replacement. The original Jules Rimet Trophy was stolen in 1983 and never recovered.\nThe subsequent trophy, called the \"FIFA World Cup Trophy\", was introduced in 1974.\nJules Rimet Trophy was renamed in 1946 to honour the FIFA President Jules Rimet who in 1929 passed a vote to initiate the competition.\nIt was designed by French sculptor Abel Lafleur and made of gold-plated sterling silver on a lapis lazuli base.\nIn 1954 this base was replaced with a taller version to accommodate more winner\'s details. It stood 35 centimetres (14 in) high and weighed 3.8 kilograms (8.4 lb).\nIt comprised a decagonal cup, supported by a winged figure representing Nike, the ancient Greek goddess of victory.\nThe Jules Rimet Trophy was taken to Uruguay for the first FIFA World Cup aboard the Conte Verde, which set sail from Villefranche-sur-Mer, just southeast of Nice, on 21 June 1930.\nThis was the same ship that carried Jules Rimet and the footballers representing France, Romania, and Belgium who were participating in the tournament that year. The first team to be awarded the trophy was Uruguay, the winners of the 1930 World Cup.\nOn 20 March 1966, four months before the 1966 FIFA World Cup in England, the trophy was stolen during a public exhibition at Westminster Central Hall. It was found just seven days later wrapped in newspaper at the bottom of a suburban garden hedge on Beulah Hill, Upper Norwood, South London, by a black and white mongrel dog named Pickles.\nAs a security measure, The Football Association secretly manufactured a replica of the trophy for use in exhibitions rather than the original. This replica was used on subsequent occasions up until 1970 when the original trophy had to be handed back to FIFA for the next competition. Since FIFA had explicitly denied the FA permission to create a replica, the replica also had to disappear from public view and was for many years kept under its creator\'s bed. This replica was eventually sold at an auction in 1997 for £254,500, when it was purchased by FIFA.\nThe Brazilian team won the tournament for the third time in 1970, allowing them to keep the real trophy in perpetuity, as had been stipulated by Jules Rimet in 1930. It was put on display at the Brazilian Football Confederation headquarters in Rio de Janeiro in a cabinet with a front of bullet-proof glass.\nOn 19 December 1983, the wooden rear of the cabinet was opened by force with a crowbar and the cup was stolen again. Four men were tried and convicted in absentia for the crime. The trophy has never been recovered, and it is widely believed to have been melted down and sold. Only one piece of the Jules Rimet Trophy has been found, the original base which FIFA had kept in a basement of the federation\'s Zürich headquarters prior to 2015."
+}

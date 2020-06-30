@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Who is this woman boxer?",
+"answers":[
+	"Katie Taylor",
+	"Mary Kom",
+	"Yang Xiaoli",
+	"Irina Sinetskaya"
+	],
+"correctAnswer":2,
+"hints":[
+	"She is the only woman to become World Amateur Boxing champion for a record six times",
+	"She is from Asian country",
+	"She is from India"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Mangte Chungneijang Mary Kom (born 1 March 1983) is an Indian Olympic boxer and incumbent Member of Parliament, Rajya Sabha.\nShe is the only woman to become World Amateur Boxing champion for a record six times, the only woman boxer to have won a medal in each one of the first seven World Championships, and the only boxer (male or female) to win eight World Championship medals.\nNicknamed Magnificent Mary, she is the only Indian woman boxer to have qualified for the 2012 Summer Olympics, competing in the flyweight (51 kg) category and winning the bronze medal.\nShe had also been ranked as No. 1 AIBA World Women\'s Ranking Light Flyweight category. She became the first Indian woman boxer to get a Gold Medal in the Asian Games in 2014 at Incheon, South Korea and is the first Indian woman boxer to win gold at the 2018 Commonwealth Games.\nShe is also the only boxer to become Asian Amateur Boxing Champion for record six times.\nAfter her marriage, Mary Kom took a short hiatus from boxing. After she and Onler had their first two children, Kom again started training. She won a silver medal at the 2008 Asian Women\'s Boxing Championship in India and a fourth successive gold medal at the AIBA Women\'s World Boxing Championship in China, followed by a gold medal at the 2009 Asian Indoor Games in Vietnam.\nIn 2010, Kom won the gold medal at the Asian Women\'s Boxing Championship in Kazakhstan, and at the AIBA Women\'s World Boxing Championship in Barbados.\nOn 1 October 2014, she won her first Gold Medal at the Asian games held at Incheon, South Korea by beating Kazakhstan\’s Zhaina Shekerbekova in the flyweight (51 kg) summit clash.\nOn 8 November 2017, she clinched an unprecedented fifth gold medal (48 kg) at the ASBC Asian Confederation women\'s boxing championships held at Ho Chi Minh in Vietnam.\nOn 24 November 2018, she created history by becoming the first woman to win 6 World Championships, achieving this feat at the 10th AIBA Women\'s World Boxing Championships held in New Delhi, India."
+}
