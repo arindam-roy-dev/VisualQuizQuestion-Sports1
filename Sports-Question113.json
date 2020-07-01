@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Which Game is played with Shuttlecock?",
+"answers":[
+	"Tennis",
+	"Badminton",
+	"Table Tennis",
+	"Cricket"
+	],
+"correctAnswer":2,
+"hints":[
+	"Each game is played to 21 points",
+	"The court is rectangular and divided into halves by a net",
+	"The game is played using racquets to hit a shuttlecock across a net",
+	"Most common forms of the game are \"singles\" (with one player per side) and \"doubles\" (with two players per side)"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A shuttlecock (also called a bird or birdie) is a high-drag projectile used in the sport of badminton.\nIt has an open conical shape formed by feathers (or a synthetic alternative) embedded into a rounded cork (or rubber) base. The shuttlecock\'s shape makes it extremely aerodynamically stable. Regardless of initial orientation, it will turn to fly cork first, and remain in the cork-first orientation.\nA shuttlecock is formed from 16 or so overlapping feathers, usually goose or duck, embedded into a rounded cork base. The cork is covered with thin leather. To ensure satisfactory flight properties, it is considered preferable to use feathers from right or left wings only in each shuttlecock, and not mix feathers from different wings, as the feathers from different wings are shaped differently.\nThe feathers are brittle; shuttlecocks break easily and often need to be replaced several times during a game. For this reason, synthetic shuttlecocks have been developed that replace the feathers with a plastic skirt. Players often refer to synthetic shuttlecocks as plastics and feathered shuttlecocks as feathers.\nFeather shuttles need to be properly humidified for at least 4 hours prior to play in order to fly the correct distance at the proper speed and to last longer. Properly humidified feathers flex during play, enhancing the shuttle\'s speed change and durability. Dry feathers are brittle and break easily, causing the shuttle to wobble.\nMost experienced and skillful players greatly prefer feathers, and serious tournaments or leagues are always played using feather shuttlecocks of the highest quality."
+}
