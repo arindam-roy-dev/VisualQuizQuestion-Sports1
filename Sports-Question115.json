@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Africa Cup of Nations (AFCON) is a tournament of?",
+"answers":[
+	"Rugby",
+	"Athletics",
+	"Football",
+	"Cricket"
+	],
+"correctAnswer":3,
+"hints":[
+	"Men\'s tournament",
+	"Egypt is the most successful nation in the cup\'s history",
+	"As of 2013, the tournament was switched to being held in odd-numbered years so as not to clash with the FIFA World Cup"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The CAF Africa Cup of Nations, also referred to as AFCON, is the main international men\'s association football competition in Africa. It is sanctioned by the Confederation of African Football (CAF) and was first held in 1957.\nSince 1968, it has been held every two years. The title holders at the time of a FIFA Confederations Cup qualify for that competition.\nEgypt is the most successful nation in the cup\'s history, winning the tournament a record of seven times (including when Egypt was known as the United Arab Republic between 1958 and 1961). Three different trophies have been awarded during the tournament\'s history, with Ghana and Cameroon winning the first two versions to keep after each of them won a tournament three times. The current trophy was first awarded in 2002 and with Egypt winning it indefinitely after winning their unprecedented third consecutive title in 2010.\nAs of 2013, the tournament was switched to being held in odd-numbered years so as not to clash with the FIFA World Cup."
+}
