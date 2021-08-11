@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this swiming style?",
+"answers":[
+	"Backstroke",
+	"Butterfly stroke",
+	"Breaststroke",
+	"Freestyle"
+	],
+"correctAnswer":1,
+"hints":[
+	"This swimming style has the advantage of easy breathing",
+	"The swimming style is similar to an upside down front crawl or freestyle"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Backstroke or back crawl is one of the four swimming styles used in competitive events regulated by FINA, and the only one of these styles swum on the back.\nThis swimming style has the advantage of easy breathing, but the disadvantage of swimmers not being able to see where they are going. It also has a different start from the other three competition swimming styles.\nThe swimming style is similar to an upside down front crawl or freestyle. Both backstroke and front crawl are long-axis strokes. In individual medley backstroke is the second style swum; in the medley relay it is the first style swum.\nIn backstroke, the arms contribute most of the forward movement. The arm stroke consists of two main parts: the power phase (consisting of three separate parts) and the recovery. The arms alternate so that always one arm is underwater while the other arm is recovering. One complete arm turn is considered one cycle.\nFrom the initial position, one arm sinks slightly under water and turns the palm outward to start the catch phase (first part of the power phase). The hand enters downward (pinkie finger first) then pulling out at a 45 degree angle, catching the water."
+}

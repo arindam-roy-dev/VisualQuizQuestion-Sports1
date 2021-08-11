@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Wich footballer scored first ever goal in FIFA World Cup final?",
+"answers":[
+	"Pedro Cea",
+	"Carlos Peucelle",
+	"Pablo Dorado",
+	"Santos Iriarte"
+	],
+"correctAnswer":3,
+"hints":[
+	"He was a footballer who played for the Uruguay national team",
+	"Carlos Peucelle scored 2nd goal in the first FIFA World Cup final",
+	"Carlos Peucelle was an Argentine football player",
+	"Pedro Cea scored 3rd goal in the first FIFA World Cup final"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Pablo Dorado (22 June 1908 in Montevideo – 18 November 1978) was a footballer who played for the Uruguay national team.\nHe represented his country at the 1930 FIFA World Cup and is better known for being the first ever player to score in a World Cup final.\nIn the final against Argentina, he scored the first goal of the match in the 12th minute, putting the hosts Uruguay in front by shooting the ball through the legs of Argentine goalkeeper Juan Botasso.\nDorado played club football for C.A. Bella Vista in Uruguay and River Plate in Argentina (1931–1935)."
+}

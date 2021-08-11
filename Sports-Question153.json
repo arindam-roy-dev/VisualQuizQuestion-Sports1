@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this swiming style?",
+"answers":[
+	"Backstroke",
+	"Butterfly stroke",
+	"Breaststroke",
+	"Freestyle"
+	],
+"correctAnswer":3,
+"hints":[
+	"In this swimming style swimmer remains on their chest and the torso does not rotate",
+	"It is also known as \"frog\" stroke",
+	"The stroke itself is the slowest of any competitive strokes"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Breaststroke is a swimming style in which the swimmer is on their chest and the torso does not rotate.\nIt is the most popular recreational style due to the swimmer\'s head being out of the water a large portion of the time, and that it can be swum comfortably at slow speeds.\nIn most swimming classes, beginners learn either the breaststroke or the freestyle (front crawl) first.\nHowever, at the competitive level, swimming breaststroke at speed requires endurance and strength comparable to other strokes.\nSome people refer to breaststroke as the \"frog\" stroke, as the arms and legs move somewhat like a frog swimming in the water.\nThe stroke itself is the slowest of any competitive strokes and is thought to be the oldest of all swimming strokes."
+}

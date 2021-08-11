@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this swiming style?",
+"answers":[
+	"Backstroke",
+	"Butterfly stroke",
+	"Breaststroke",
+	"Freestyle"
+	],
+"correctAnswer":4,
+"hints":[
+	"It is most common of all swimming competitions",
+	"During a race, the competitor circles the arms forward in alternation, kicking the feet up and down"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Freestyle is a category of swimming competition, defined by the rules of the International Swimming Federation (FINA), in which competitors are subject to few limited restrictions on their swimming stroke.\nFreestyle races are the most common of all swimming competitions, with distances beginning with 50 meters (50 yards) and reaching 1500 meters (1650 yards), also known as the mile.\nThe term \'freestyle stroke\' is sometimes used as a synonym for \'front crawl\', as front crawl is the fastest swimming stroke. It is now the most common stroke used in freestyle competitions.\nFreestyle swimming implies the use of legs and arms for competitive swimming, except in the case of the individual medley or medley relay events.\nThe front crawl is most commonly chosen by swimmers, as this provides the greatest speed. During a race, the competitor circles the arms forward in alternation, kicking the feet up and down (flutter kick). Individual freestyle events can also be swum using one of the officially regulated strokes (breaststroke, butterfly, or backstroke)."
+}

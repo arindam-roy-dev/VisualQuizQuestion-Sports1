@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this swiming style?",
+"answers":[
+	"Backstroke",
+	"Butterfly stroke",
+	"Breaststroke",
+	"Freestyle"
+	],
+"correctAnswer":2,
+"hints":[
+	"Also known as the \"Dolphin Kick\"",
+	"This is a more difficult stroke that requires good technique as well as strong muscles",
+	"It is overall slightly slower than front crawl, especially over longer distances",
+	"It is the newest swimming style swum in competition, first swum in 1933"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The butterfly (colloquially shortened to fly) is a swimming stroke swum on the chest, with both arms moving symmetrically, accompanied by the butterfly kick (also known as the \"dolphin kick\").\nWhile other styles like the breaststroke, front crawl, or backstroke can be swum adequately by beginners, the butterfly is a more difficult stroke that requires good technique as well as strong muscles.\nIt is the newest swimming style swum in competition, first swum in 1933 and originating out of the breaststroke.\nThe peak speed of the butterfly is faster than that of the front crawl due to the synchronous pull/push with both arms and legs, which is done quickly. Yet since speed drops significantly during the recovery phase, it is overall slightly slower than front crawl, especially over longer distances.\nAnother reason it is slower is because of the extremely different physical exertion it puts on the swimmer compared to the front crawl."
+}
