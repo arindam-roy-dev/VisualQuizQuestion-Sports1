@@ -1,0 +1,23 @@
+{
+"app":"Visual Quiz",
+"question":"Who is this boxer?",
+"answers":[
+	"Floyd Mayweather",
+	"Canelo Álvarez",
+	"Oleksandr Usyk",
+	"Muhammad Ali"
+	],
+"correctAnswer":4,
+"hints":[
+	"American professional boxer",
+	"His previous name was Cassius Clay",
+	"He was found guilty of draft evasion so he faced 5 years in prison",
+	"Oleksandr Usyk is an Ukrainian boxer",
+	"Canelo Álvarez is a Mexican boxer"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Muhammad Ali (January 17, 1942 – June 3, 2016) was an American professional boxer, activist, entertainer, poet and philanthropist.\nHe is frequently ranked as the greatest heavyweight boxer of all time, and in 1999 he was named the Sportsman of the Century by Sports Illustrated and the Sports Personality of the Century by the BBC.\nAli was born and raised in Louisville, Kentucky. He began training as an amateur boxer at age 12. At 18, he won a gold medal in the light heavyweight division at the 1960 Summer Olympics and turned professional later that year. He became a Muslim after 1961.\nHe won the world heavyweight championship from Sonny Liston in a major upset on February 25, 1964, at age 22.\nOn March 6, 1964, he announced that he no longer would be known as Cassius Clay but as Muhammad Ali.\nIn 1966, Ali refused to be drafted into the military, citing his religious beliefs and ethical opposition to the Vietnam War. He was found guilty of draft evasion so he faced 5 years in prison and was stripped of his boxing titles.\nHe stayed out of prison as he appealed the decision to the Supreme Court, which overturned his conviction in 1971, but he had not fought for nearly four years and lost a period of peak performance as an athlete.\nAli\'s actions as a conscientious objector to the Vietnam War made him an icon for the larger counterculture generation, and he was a very high-profile figure of racial pride for African Americans during the civil rights movement and throughout his career.\nAs a Muslim, Ali was initially affiliated with Elijah Muhammad\'s Nation of Islam (NOI). He later disavowed the NOI, adhering to Sunni Islam, and supported racial integration like his former mentor Malcolm X.\nHe fought in several historic boxing matches and feuds, most notably his fights with Sonny Liston, Joe Frazier, including the Fight of the Century (the biggest boxing event up until then), the Thrilla in Manila, and his fight with George Foreman in The Rumble in the Jungle.\nAli thrived in the spotlight at a time when many boxers let their managers do the talking, and he was often provocative and outlandish.\nHe was known for trash-talking, and often free-styled with rhyme schemes and spoken word poetry incorporating elements of hip hop, and often predicted in which round he would knockout his opponent."
+}
